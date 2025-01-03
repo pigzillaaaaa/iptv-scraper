@@ -1,2 +1,2 @@
-### TheTVApp Playlist (https://thetvapp.to)
+### TheTVApp Playlist
 - ```https://thetvapp-self.vercel.app/thetvapp```
