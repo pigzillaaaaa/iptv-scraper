@@ -14,7 +14,7 @@ def check_playlist(url):
     return "🔴" # Failed to fetch
 
 def update_readme():
-    with open('README.md', 'r', encoding='utf-8') as file:
+    with open('readme.md', 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Regular expression to find playlist URLs
