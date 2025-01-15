@@ -1,5 +1,6 @@
 import re
 import requests
+from datetime import datetime
 
 def check_playlist(url):
     try:
@@ -17,18 +18,20 @@ def check_playlist(url):
 
 def update_readme():
     try:
-        with open('readme.md', 'r', encoding='utf-8') as file:  # Changed to lowercase
+        with open('readme.md', 'r', encoding='utf-8') as file:
             content = file.read()
             print("Successfully read readme.md")
     except Exception as e:
         print(f"Error reading readme.md: {str(e)}")
         return
 
+    current_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC+8")
+    
     # Pattern to match URLs in backticks
     pattern = r'`(https://[^`]+)`'
     
     urls = re.findall(pattern, content)
-    print(f"Found {len(urls)} URLs: {urls}")  # Debug print
+    print(f"Found {len(urls)} URLs: {urls}")
     
     updated_content = content
     for url in urls:
@@ -40,15 +43,16 @@ def update_readme():
         
         if line_match:
             old_line = line_match.group(1)
-            # Remove existing status if any
-            cleaned_line = re.sub(r' [🔴🟢]', '', old_line)
-            # Add new status
-            new_line = f"{cleaned_line} {status}"
+            # Remove existing status and date if any
+            cleaned_line = re.sub(r' [🔴🟢].*$', '', old_line)
+            # Add new status with date
+            status_text = "Working" if status == "🟢" else "Not working"
+            new_line = f"{cleaned_line} {status} ({status_text} as of {current_time})"
             updated_content = updated_content.replace(old_line, new_line)
             print(f"Updated line for {url} with status {status}")
 
     try:
-        with open('readme.md', 'w', encoding='utf-8') as file:  # Changed to lowercase
+        with open('readme.md', 'w', encoding='utf-8') as file:
             file.write(updated_content)
             print("Successfully wrote readme.md")
     except Exception as e:
