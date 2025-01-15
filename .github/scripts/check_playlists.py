@@ -25,7 +25,7 @@ def update_readme():
         print(f"Error reading readme.md: {str(e)}")
         return
 
-    current_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC+8")
+    current_time = datetime.utcnow().strftime("%Y-%m-%d")
     
     # Pattern to match URLs in backticks
     pattern = r'`(https://[^`]+)`'
