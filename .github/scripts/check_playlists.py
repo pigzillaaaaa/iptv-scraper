@@ -43,7 +43,7 @@ def update_readme():
             content = content.replace(old_line, new_line)
     
     # Write updated content back to README
-    with open('README.md', 'w', encoding='utf-8') as file:
+    with open('readme.md', 'w', encoding='utf-8') as file:
         file.write(content)
 
 if __name__ == "__main__":
