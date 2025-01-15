@@ -47,7 +47,7 @@ def update_readme():
             cleaned_line = re.sub(r' [🔴🟢].*$', '', old_line)
             # Add new status with date
             status_text = "Working" if status == "🟢" else "Not working"
-            new_line = f"{cleaned_line} {status} ({status_text} as of {current_time})"
+            new_line = f"{cleaned_line} {status} ```(Working as of {current_time})```"
             updated_content = updated_content.replace(old_line, new_line)
             print(f"Updated line for {url} with status {status}")
 
