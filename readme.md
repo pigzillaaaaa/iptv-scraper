@@ -4,6 +4,8 @@
 - ```https://roxiestreams.vercel.app/roxiestreams``` 🟢 ```(Working as of 2025-01-16)```
 ##### Sons-Stream Playlist
 - ```https://sonsstreams.vercel.app/sonsstreams``` 🟢 ```(Working as of 2025-01-16)```
+##### PPVLand Playlist
+- ```https://ppvland-me.vercel.app/ppvland``` 🟢 ```(Working as of 2025-01-16)```
 
 
 
