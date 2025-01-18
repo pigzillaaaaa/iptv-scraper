@@ -1,11 +1,11 @@
 ##### TheTVApp Playlist (US/CA VPN)
-- ```https://thetvapp-one.vercel.app/thetvapp``` 🟢 ```(Working as of 2025-01-17)```
+- ```https://thetvapp-one.vercel.app/thetvapp``` 🟢 ```(Working as of 2025-01-18)```
 ##### Roxiestreams Playlist
-- ```https://roxiestreams.vercel.app/roxiestreams``` 🟢 ```(Working as of 2025-01-17)```
+- ```https://roxiestreams.vercel.app/roxiestreams``` 🟢 ```(Working as of 2025-01-18)```
 ##### Sons-Stream Playlist
-- ```https://sonsstreams.vercel.app/sonsstreams``` 🟢 ```(Working as of 2025-01-17)```
+- ```https://sonsstreams.vercel.app/sonsstreams``` 🟢 ```(Working as of 2025-01-18)```
 ##### PPVLand Playlist
-- ```https://ppvland-me.vercel.app/ppvland``` 🟢 ```(Working as of 2025-01-17)```
+- ```https://ppvland-me.vercel.app/ppvland``` 🟢 ```(Working as of 2025-01-18)```
 
 
 
