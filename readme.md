@@ -6,7 +6,8 @@
 - ```https://sonsstreams.vercel.app/sonsstreams``` 🟢 ```(Working as of 2025-02-01)```
 ##### PPVLand Playlist
 - ```https://ppvland-me.vercel.app/ppvland``` 🟢 ```(Working as of 2025-02-01)```
-
+##### DaddyLive Playlist (/daddylive-channels || /daddylive-events)
+- ```https://daddylive-me.vercel.app/daddylive``` 🟢 ```(Working as of 2025-02-01)```
 
 
 
