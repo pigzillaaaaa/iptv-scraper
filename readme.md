@@ -3,7 +3,7 @@
 ##### Roxiestreams Playlist
 - ```https://roxiestreams.vercel.app/roxiestreams``` 🟢 ```(Working as of 2025-02-05)```
 ##### Sons-Stream Playlist
-- ```https://sonsstreams.vercel.app/sonsstreams``` 🟢 ```(Working as of 2025-02-05)```
+- ```https://sonsstreams.vercel.app/sonsstreams``` 🔴 ```(Not working as of 2025-02-05)```
 ##### PPVLand Playlist
 - ```https://ppvland-me.vercel.app/ppvland``` 🟢 ```(Working as of 2025-02-05)```
 ##### DaddyLive Playlist (/daddylive-channels || /daddylive-events)
