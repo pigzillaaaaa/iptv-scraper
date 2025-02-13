@@ -1,0 +1,44 @@
+name: PPVLAND
+on:
+  schedule:
+    - cron: '0 0-5,16-23 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+env:
+  ch_filename: ppvland.m3u8
+
+jobs:
+  fetch_m3u8_job:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Manila
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Download M3U8 files
+        run: |
+          echo "Downloading M3U8 files"
+          curl -fSL "${{ secrets.PPVLAND_URL }}" -o "${{ env.ch_filename }}"
+
+      - name: Log the downloaded M3U8 file details
+        run: |
+          if [ -f "${{ env.ch_filename }}" ]; then
+            echo "${{ env.ch_filename }} downloaded successfully."
+            ls -lh "${{ env.ch_filename }}"
+          else
+            echo "Failed to download ${{ env.ch_filename }}."
+          fi
+
+      - name: Commit and push the M3U8 files (Squash Commit)
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add "${{ env.ch_filename }}"
+          git commit -m "Update M3U8 files" || echo "No changes to commit"
+          git push --force-with-lease
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
