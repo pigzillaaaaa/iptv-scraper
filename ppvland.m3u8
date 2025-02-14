@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37660/assets/1920_thumbnail.png" group-title="DARTS",2025 PDC Women's Series Events 1-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvfklV3.jpeg" group-title="ARM WRESTLING",East vs West 16: Devon Larratt vs Genadi Kvikvinia
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37660-2025-pdc-womens-series-events-1-2/index.m3u8?md5=oN3YpH3StNxkkzfc1tNo4A&expires=1739663940
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/tmc-tmt/1280x720.png" group-title="BASKETBALL",Team C at Team T
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=e-kCYIRjkL9lBC2ocd5Atw&expires=1739595600
+https://director.shoeshopping.top/v3/director/VE1YWEzOTQ3NjFmYjQyLTgwZWItMGE2NC1hODk2LTljYzFjYWI3/master.m3u8?md5=yNa_B5g0xWGAi6rUQf19wQ&expires=1739667600
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/tmg-tmm/1280x720.png" group-title="BASKETBALL",Team G League at Team M
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -24,29 +18,23 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=r97Po97CgOOpJyuoOUpUJg&expires=1739600400
 
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37660/assets/1920_thumbnail.png" group-title="DARTS",2025 PDC Women's Series Events 1-2
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37660-2025-pdc-womens-series-events-1-2/index.m3u8?md5=oN3YpH3StNxkkzfc1tNo4A&expires=1739663940
+
 #EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37661/assets/1920_thumbnail.png" group-title="DARTS",2025 PDC Women's Series Events 3-4
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/pdctv-37661-2025-pdc-womens-series-events-3-4/index.m3u8?md5=ynM9wzJZXFoR0q4vdTUCRA&expires=1739750340
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvfklV3.jpeg" group-title="ARM WRESTLING",East vs West 16: Devon Larratt vs Genadi Kvikvinia
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/tmc-tmt/1280x720.png" group-title="BASKETBALL",Team C at Team T
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.shoeshopping.top/v3/director/VE1YWEzOTQ3NjFmYjQyLTgwZWItMGE2NC1hODk2LTljYzFjYWI3/master.m3u8?md5=yNa_B5g0xWGAi6rUQf19wQ&expires=1739667600
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Championship game
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/espn/index.m3u8?md5=-Q80-kkmTQFl22p6coi_WQ&expires=1740110400
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luOiy6v.jpeg" group-title="FOOTBALL",Brighton & Hove Albion vs Chelsea
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/skyepl/index.m3u8?md5=eBzqyRh6dTjKNw2fbGLzxg&expires=1739572200
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=e-kCYIRjkL9lBC2ocd5Atw&expires=1739595600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",United States vs. Canada
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -54,11 +42,29 @@ https://lb.fscdn.fun/skyepl/index.m3u8?md5=eBzqyRh6dTjKNw2fbGLzxg&expires=173957
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/abc/index.m3u8?md5=3VOHkd3WVnOHZbL_6OyX1g&expires=1739678400
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/luOiy6v.jpeg" group-title="FOOTBALL",Brighton & Hove Albion vs Chelsea
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/skyepl/index.m3u8?md5=eBzqyRh6dTjKNw2fbGLzxg&expires=1739572200
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Finland vs. Sweden
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/abc/index.m3u8?md5=lWt0YgQdM2SoFL-dBvxFgA&expires=1739653200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Sweden vs. United States
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/tnt/index.m3u8?md5=RWGITw_GdrCl2VcZoRJxBA&expires=1739851200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Championship game
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/espn/index.m3u8?md5=-Q80-kkmTQFl22p6coi_WQ&expires=1740110400
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Canada vs. Finland
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -66,11 +72,11 @@ https://lb.fscdn.fun/abc/index.m3u8?md5=lWt0YgQdM2SoFL-dBvxFgA&expires=173965320
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/tnt/index.m3u8?md5=bB-JXy7o6za5DbmHCTFYFg&expires=1739826000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Sweden vs. United States
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 1)
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/tnt/index.m3u8?md5=RWGITw_GdrCl2VcZoRJxBA&expires=1739851200
+https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=oq5UjYU6CjyZav2EUSPhXg&expires=1740585600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 2)
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -84,11 +90,11 @@ https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=GowW6pZItnHIgUl7cOvdLg&ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=EHnskdC90JKOoaUfTjwgZg&expires=1740758400
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 STREAMS",ESPN
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=oq5UjYU6CjyZav2EUSPhXg&expires=1740585600
+https://fs.qwertyisaddictedtodxm.pw/espn/index.m3u8?md5=6bUYHAbuHqEfWc3GSZXRBw&expires=1705611600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE SmackDown
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -101,12 +107,6 @@ https://director.shoeshopping.top/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC0
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.shoeshopping.top/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=3VOHkd3WVnOHZbL_6OyX1g&expires=1739678400
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 STREAMS",ESPN
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://fs.qwertyisaddictedtodxm.pw/espn/index.m3u8?md5=6bUYHAbuHqEfWc3GSZXRBw&expires=1705611600
 
 #EXTINF:-1 tvg-logo="https://p3-fs.flowstreams.top/sheeps1/preview.jpg" group-title="24/7 STREAMS",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppv.land
