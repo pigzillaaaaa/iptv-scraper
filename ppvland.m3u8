@@ -6,6 +6,24 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=CC5aYUvbrlkrRSTpuA3HdA&expires=1739771100
 
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/ken-chk/1280x720.png" group-title="BASKETBALL",Young Stars at Global Stars
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=OSlY-WK_66p0IgPzA1dKfQ&expires=1739765100
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/-/1280x720.png" group-title="BASKETBALL", at 
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=CC5aYUvbrlkrRSTpuA3HdA&expires=1739771100
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3lHFJXg.jpeg" group-title="FOOTBALL",EPL: Liverpool vs Wolverhampton Wanderers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/skyepl/index.m3u8?md5=NwWyXtoeCxbeI2SyL8N5Sw&expires=1739723400
+
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/can-shq/1280x720.png" group-title="BASKETBALL",Rising Stars at OGs
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
@@ -18,29 +36,17 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/pdctv-37661-2025-pdc-womens-series-events-3-4/index.m3u8?md5=ynM9wzJZXFoR0q4vdTUCRA&expires=1739750340
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/ken-chk/1280x720.png" group-title="BASKETBALL",Young Stars at Global Stars
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=OSlY-WK_66p0IgPzA1dKfQ&expires=1739765100
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Canada vs. Finland
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/tnt/index.m3u8?md5=bB-JXy7o6za5DbmHCTFYFg&expires=1739826000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pooy34W.jpeg" group-title="BASKETBALL",NBA All-Star Saturday Night
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCFD8A2.jpeg" group-title="FOOTBALL",EPL: Tottenham Hotspur vs Manchester United
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/tnt/index.m3u8?md5=brdSu8ZcB5biJmKVJ4Gttg&expires=1739685600
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjjL7kw.png" group-title="MOTORSPORTS",2025 Daytona 500
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/fox/index.m3u8?md5=znT9_Zn0RjbLTkVhsGEIDg&expires=1739748600
+https://director.shoeshopping.top/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=B0r_HL2nn5N7zuHKQ-KLkw&expires=1739732400
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PO4VpX2.png" group-title="ICE HOCKEY",Championship game
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -54,11 +60,11 @@ https://lb.fscdn.fun/espn/index.m3u8?md5=-Q80-kkmTQFl22p6coi_WQ&expires=17401104
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/tnt/index.m3u8?md5=RWGITw_GdrCl2VcZoRJxBA&expires=1739851200
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjjL7kw.png" group-title="MOTORSPORTS",2025 Daytona 500
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=GowW6pZItnHIgUl7cOvdLg&expires=1740672000
+https://lb.fscdn.fun/fox/index.m3u8?md5=znT9_Zn0RjbLTkVhsGEIDg&expires=1739748600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 1)
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -66,17 +72,161 @@ https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=GowW6pZItnHIgUl7cOvdLg&ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=oq5UjYU6CjyZav2EUSPhXg&expires=1740585600
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 2)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=GowW6pZItnHIgUl7cOvdLg&expires=1740672000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=zFA_hLEqqoO9Z-KR3NJmiQ&expires=1739937600
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzn3wD.png" group-title="MOTORSPORTS",2025 F1 Pre-Season Testing (Day 3)
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=EHnskdC90JKOoaUfTjwgZg&expires=1740758400
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE SmackDown
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=2xwSETzXxs6f5tRSc5bAVA&expires=1740196800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=iYYiv2EjU72gAruymjWR3A&expires=1739854800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=djhogPMbPfVuWaVcFE6BXA&expires=1740283200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=-Q80-kkmTQFl22p6coi_WQ&expires=1740110400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gajn72i.jpeg" group-title="WRESTLING",AEW Dynamite
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=u_yK3GjQGr_PwtNFDows_g&expires=1740024000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=AKkxVMU7bO0nHNF9YZWmig&expires=1740542400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE SmackDown
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=t1-HuqrFsRL8_-kbLJqbIA&expires=1740801600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=t-yOzwNtWmMmbl5lswQOOw&expires=1740888000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=_LcduQ-AXHOCILNwSfweQg&expires=1740459600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gajn72i.jpeg" group-title="WRESTLING",AEW Dynamite
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=Vp55AlkVILi_1nlLzZqSRw&expires=1740628800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=uoQKimkAMrn1XGEeTvT1lw&expires=1740715200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=nJbsVUBfFk3B2B-04yW71Q&expires=1741320000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE SmackDown
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=AuFI6-TbLqQH3Xz_MzNLwA&expires=1741406400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=UfO9SmadEZVz0GXByHhXaQ&expires=1741064400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=vLbVpeBj25N5lGdHKogGgA&expires=1741147200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gajn72i.jpeg" group-title="WRESTLING",AEW Dynamite
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=0pxTK70FBv56N1Y7dXmASw&expires=1741233600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=8nRqtZjefjK9j0u-g-tIMQ&expires=1741669200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=9C_IWw1cbcCg2V7KOQgaKw&expires=1741752000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=5vmtZQuVpS9cBzh1Xokh9Q&expires=1741492800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=vgzVdXKnEzxrgJOd06bTgw&expires=1741924800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE SmackDown
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=0r9_PtIt4asRxQjjiJaSrQ&expires=1742011200
+
 #EXTINF:-1 tvg-logo="https://p3-fs.flowstreams.top/sheeps1/preview.jpg" group-title="24/7 STREAMS",24/7 COWS
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://p3.flowstreams.top/sheeps1/index.m3u8?md5=eoxwW4NsirbM_x3xOh2U8w&expires=1740772800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gajn72i.jpeg" group-title="WRESTLING",AEW Dynamite
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=7g9oKpb7QSzH1RKfwCcwoA&expires=1741838400
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 STREAMS",ESPN
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -94,5 +244,5 @@ https://tv.nknews.org/tvhls/stream.m3u8?md5=SodfFCc9i6bTnJ2lkELwhw&expires=17372
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/tnt/index.m3u8?md5=RwwJtdafDlYtxhpn54wZEQ&expires=1739687400
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=dDoQPjBL4ooCe0PglsxXIg&expires=1742097600
 
