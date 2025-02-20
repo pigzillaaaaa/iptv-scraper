@@ -1,46 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mem-ind/1280x720.png" group-title="BASKETBALL",Grizzlies at Pacers
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lal-por/1280x720.png" group-title="BASKETBALL",Lakers at Trail Blazers
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2I4M2RiNDI1OTI1LThmMmEtNzZkNC0zZDQ2LTIyNTIxYjE3/master.m3u8?md5=XbZzTYS5SthZ7IQvwyiB8w&expires=1740116700
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/chi-nyk/1280x720.png" group-title="BASKETBALL",Bulls at Knicks
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
-
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/bos-phi/1280x720.png" group-title="BASKETBALL",Celtics at 76ers
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
+https://lb.fscdn.fun/tnt/index.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-mil/1280x720.png" group-title="BASKETBALL",Clippers at Bucks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/bucks/index.m3u8?md5=nBR7euZbhAd6thbMXd8wJA&expires=1740109500
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cha-den/1280x720.png" group-title="BASKETBALL",Hornets at Nuggets
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/nuggets/index.m3u8?md5=wcY7IKY5Gug8T8zTUPDxHg&expires=1740113100
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cle-bkn/1280x720.png" group-title="BASKETBALL",Cavaliers at Nets
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NzcyNWIyZTFmNGE3LWY3NDgtODQ5NC0xYWFiLTFhNmM4ZWY2/master.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-atl/1280x720.png" group-title="BASKETBALL",Magic at Hawks
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjIxMWVhYWJhYjgxLTUzMzktMGQwNC1jNjAzLTBmMDQ4YmU5/master.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phx-sas/1280x720.png" group-title="BASKETBALL",Suns at Spurs
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=5ye3_MEaRBVB6S0yrbraTA&expires=1740114900
+https://lb.fscdn.fun/nets/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cKIRMBL.jpeg" group-title="COMBAT SPORTS",The Last Crescendo: Beterbiev vs Bivol 2
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -48,17 +30,11 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTMyYWI3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.shoeshopping.top/v3/director/VE1OTk3ODg0YTRmZmFiLWRjMTgtNjZiNC05MjBkLWNjYmEyZTBm/master.m3u8?md5=U_Ms9nGmJOIQla9J0cWlcQ&expires=1740268800
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-mil/1280x720.png" group-title="BASKETBALL",Clippers at Bucks
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mem-ind/1280x720.png" group-title="BASKETBALL",Grizzlies at Pacers
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1N2ZiNDRmODRiYzViLTRjZWItMDZjNC0yNzEzLWM4Y2VhMTI0/master.m3u8?md5=nBR7euZbhAd6thbMXd8wJA&expires=1740109500
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cha-den/1280x720.png" group-title="BASKETBALL",Hornets at Nuggets
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=wcY7IKY5Gug8T8zTUPDxHg&expires=1740113100
+https://lb.fscdn.fun/pacers/index.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
 
 #EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37930/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - Italian
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -66,17 +42,41 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NjVkNWYz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/pdctv-37930-2025-bet-mgm-premier-league-night-three---italian/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
 
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37929/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - English
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-atl/1280x720.png" group-title="BASKETBALL",Magic at Hawks
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37929-2025-bet-mgm-premier-league-night-three---english/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
+https://lb.fscdn.fun/hawks/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lal-por/1280x720.png" group-title="BASKETBALL",Lakers at Trail Blazers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/blazers/index.m3u8?md5=XbZzTYS5SthZ7IQvwyiB8w&expires=1740116700
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/chi-nyk/1280x720.png" group-title="BASKETBALL",Bulls at Knicks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/knicks/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phx-sas/1280x720.png" group-title="BASKETBALL",Suns at Spurs
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/tnt/index.m3u8?md5=5ye3_MEaRBVB6S0yrbraTA&expires=1740114900
 
 #EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37931/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - Spanish
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/pdctv-37931-2025-bet-mgm-premier-league-night-three---spanish/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37929/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - English
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37929-2025-bet-mgm-premier-league-night-three---english/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
 
 #EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37932/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Four - English
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -138,17 +138,17 @@ https://lb.fscdn.fun/wrestling/index.m3u8?md5=zIrfMYdyz6pyXj7GEHZ_jg&expires=174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/wrestling/index.m3u8?md5=OaN2OP_At0irl9_e_lrTEQ&expires=1740283200
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/wrestling/index.m3u8?md5=TnX_JbokvRgcnnrhFjKpPw&expires=1740542400
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/wrestling/index.m3u8?md5=djfQncjbmzhywabqMhYbkA&expires=1740459600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=TnX_JbokvRgcnnrhFjKpPw&expires=1740542400
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gajn72i.jpeg" group-title="WRESTLING",AEW Dynamite
 #EXTVLCOPT:http-origin=https://ppv.land
