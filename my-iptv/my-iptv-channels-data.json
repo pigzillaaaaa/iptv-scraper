@@ -1,0 +1,742 @@
+[
+    {
+        "tvg-id": "Eurosport1UnitedKingdom(src01).uk",
+        "channel-name": "AMAZON UK EuroSports 1"
+    },
+    {
+        "tvg-id": "Eurosport2UnitedKingdom(src01).uk",
+        "channel-name": "AMAZON UK EuroSports 2"
+    },
+    {
+        "tvg-id": "ABC.Australia.HD.my",
+        "channel-name": "ASTRO ABC Australia"
+    },
+    {
+        "tvg-id": "Al.Jazeera.English.HD.my",
+        "channel-name": "ASTRO AL Jazeera"
+    },
+    {
+        "tvg-id": "Animal.Planet.HD.my",
+        "channel-name": "ASTRO Animal Planet"
+    },
+    {
+        "tvg-id": "Astro.Arena.my",
+        "channel-name": "ASTRO Arena"
+    },
+    {
+        "tvg-id": "Astro.Arena.2.my",
+        "channel-name": "ASTRO Arena 2"
+    },
+    {
+        "tvg-id": "Asian.Food.Network.HD.my",
+        "channel-name": "ASTRO Asian Food Network"
+    },
+    {
+        "tvg-id": "AXN.HD.my",
+        "channel-name": "ASTRO AXN HD"
+    },
+    {
+        "tvg-id": "BBC.Earth.my",
+        "channel-name": "ASTRO BBC Earth"
+    },
+    {
+        "tvg-id": "BBC.News.HD.my",
+        "channel-name": "ASTRO BBC World News"
+    },
+    {
+        "tvg-id": "beIN.SPORTS.2.my",
+        "channel-name": "ASTRO beIN Sports 2 HD"
+    },
+    {
+        "tvg-id": "beIN.SPORTS.3.my",
+        "channel-name": "ASTRO beIN Sports 3 HD"
+    },
+    {
+        "tvg-id": "beIN.SPORTS.1.my",
+        "channel-name": "ASTRO beIN Sports HD"
+    },
+    {
+        "tvg-id": "Bloomberg.TV.HD.my",
+        "channel-name": "ASTRO Bloomberg"
+    },
+    {
+        "tvg-id": "BOO.HD.my",
+        "channel-name": "ASTRO Boo"
+    },
+    {
+        "tvg-id": "Cartoon.Network.HD.my",
+        "channel-name": "ASTRO Cartoon Network HD"
+    },
+    {
+        "tvg-id": "CGTN.HD.my",
+        "channel-name": "ASTRO CGTN"
+    },
+    {
+        "tvg-id": "CINEMAX.HD.my",
+        "channel-name": "ASTRO Cinemax"
+    },
+    {
+        "tvg-id": "CNA.HD.my",
+        "channel-name": "ASTRO CNA"
+    },
+    {
+        "tvg-id": "CNBC.Asia.HD.my",
+        "channel-name": "ASTRO CNBC Asia"
+    },
+    {
+        "tvg-id": "CNN.HD.my",
+        "channel-name": "ASTRO CNN"
+    },
+    {
+        "tvg-id": "Discovery.Channel.HD.my",
+        "channel-name": "ASTRO Discovery Channel HD"
+    },
+    {
+        "tvg-id": "Discovery.Asia.HD.my",
+        "channel-name": "ASTRO Discovey Asia HD"
+    },
+    {
+        "tvg-id": "DreamWorks.my",
+        "channel-name": "ASTRO Dreamworks"
+    },
+    {
+        "tvg-id": "DW.English.my",
+        "channel-name": "ASTRO DW"
+    },
+    {
+        "tvg-id": "EUROSPORT.my",
+        "channel-name": "ASTRO Eurosport HD"
+    },
+    {
+        "tvg-id": "Food.Network.HD.my",
+        "channel-name": "ASTRO Food Network"
+    },
+    {
+        "tvg-id": "Astro.Football.my",
+        "channel-name": "ASTRO Football"
+    },
+    {
+        "tvg-id": "France24.my",
+        "channel-name": "ASTRO France24"
+    },
+    {
+        "tvg-id": "HBO.Family.my",
+        "channel-name": "ASTRO HBO Family HD"
+    },
+    {
+        "tvg-id": "HBO.HD.my",
+        "channel-name": "ASTRO HBO HD"
+    },
+    {
+        "tvg-id": "HBO.Hits.my",
+        "channel-name": "ASTRO HBO Hits HD"
+    },
+    {
+        "tvg-id": "History.HD.my",
+        "channel-name": "ASTRO History HD"
+    },
+    {
+        "tvg-id": "HITS.HD.my",
+        "channel-name": "ASTRO Hits"
+    },
+    {
+        "tvg-id": "HITS.MOVIES.HD.my",
+        "channel-name": "ASTRO Hits Movies"
+    },
+    {
+        "tvg-id": "HITS.NOW.my",
+        "channel-name": "ASTRO Hits Now"
+    },
+    {
+        "tvg-id": "K-Plus.HD.my",
+        "channel-name": "ASTRO K+"
+    },
+    {
+        "tvg-id": "KBS.World.HD.my",
+        "channel-name": "ASTRO KBS World"
+    },
+    {
+        "tvg-id": "NHK.World.Premium.my",
+        "channel-name": "ASTRO NHK World Premium"
+    },
+    {
+        "tvg-id": "Nick.Jr..my",
+        "channel-name": "ASTRO Nick Jr"
+    },
+    {
+        "tvg-id": "Nickelodeon.HD.my",
+        "channel-name": "ASTRO Nickelodeon HD"
+    },
+    {
+        "tvg-id": "ONE.HD.my",
+        "channel-name": "ASTRO One HD"
+    },
+    {
+        "tvg-id": "Astro.Premier.League.my",
+        "channel-name": "ASTRO Premier"
+    },
+    {
+        "tvg-id": "Astro.Premier.my",
+        "channel-name": "ASTRO Premier Sports"
+    },
+    {
+        "tvg-id": "SHOWCASE.my",
+        "channel-name": "ASTRO Showcase"
+    },
+    {
+        "tvg-id": "Sky.News.HD.my",
+        "channel-name": "ASTRO Sky News"
+    },
+    {
+        "tvg-id": "Astro.Sports.Plus.my",
+        "channel-name": "ASTRO Sport Plus"
+    },
+    {
+        "tvg-id": "SPOTV.my",
+        "channel-name": "ASTRO SPOTV HD"
+    },
+    {
+        "tvg-id": "SPOTV2.my",
+        "channel-name": "ASTRO SPOTV2 HD"
+    },
+    {
+        "tvg-id": "tvN.HD.my",
+        "channel-name": "ASTRO tvN HD"
+    },
+    {
+        "tvg-id": "tvN.Movies.HD.my",
+        "channel-name": "ASTRO tvN Movies HD"
+    },
+    {
+        "tvg-id": "W-Sport.my",
+        "channel-name": "ASTRO W-Sport"
+    },
+    {
+        "tvg-id": "Warner.TV.HD.my",
+        "channel-name": "ASTRO Warner TV"
+    },
+    {
+        "tvg-id": "HBO.2.-.Eastern.Feed.us",
+        "channel-name": "BALO HBO 2"
+    },
+    {
+        "tvg-id": "HBO.Comedy.HD.-.East.us",
+        "channel-name": "BALO HBO COMEDY"
+    },
+    {
+        "tvg-id": "HBO.Family.-.Eastern.Feed.us",
+        "channel-name": "BALO HBO FAMILY"
+    },
+    {
+        "tvg-id": "HBO.Signature.(HBO.3).-.Eastern.us",
+        "channel-name": "BALO HBO SIGNATURE"
+    },
+    {
+        "tvg-id": "HBO.Zone.HD.-.East.us",
+        "channel-name": "BALO HBO ZONE"
+    },
+    {
+        "tvg-id": "Sky.Action.HD.uk",
+        "channel-name": "BALO Sky Cinema Action"
+    },
+    {
+        "tvg-id": "Sky.Drama.HD.uk",
+        "channel-name": "BALO Sky Cinema Drama"
+    },
+    {
+        "tvg-id": "Sky.Greats.HD.uk",
+        "channel-name": "BALO Sky Cinema Greats"
+    },
+    {
+        "tvg-id": "Sky.Cinema.Hits.HD.uk",
+        "channel-name": "BALO Sky Cinema Hits"
+    },
+    {
+        "tvg-id": "Sky.Premiere.uk",
+        "channel-name": "BALO Sky Cinema Premiere"
+    },
+    {
+        "tvg-id": "Sky.ScFi/HorHD.uk",
+        "channel-name": "BALO Sky Cinema Sci-Fi Horror"
+    },
+    {
+        "tvg-id": "Sky.Cinema.Select.uk",
+        "channel-name": "BALO Sky Cinema Select"
+    },
+    {
+        "tvg-id": "Sky.Thriller.HD.uk",
+        "channel-name": "BALO Sky Cinema Thriller"
+    },
+    {
+        "tvg-id": "Sky.Comedy.HD.uk",
+        "channel-name": "BALO Sky Comedy"
+    },
+    {
+        "tvg-id": "plex.tv.Screambox.TV.plex",
+        "channel-name": "Bloody Disgusting TV"
+    },
+    {
+        "tvg-id": "plex.tv.Bloomberg.TV.plex",
+        "channel-name": "Bloomberg TV+ UHD"
+    },
+    {
+        "tvg-id": "AdultSwim.com.Cartoon.Network.us",
+        "channel-name": "CARTOON NETWORK"
+    },
+    {
+        "tvg-id": "4Seven.uk",
+        "channel-name": "CHANNEL 4 4seven"
+    },
+    {
+        "tvg-id": "Channel.4.uk",
+        "channel-name": "CHANNEL 4 Channel4"
+    },
+    {
+        "tvg-id": "E4.HD.uk",
+        "channel-name": "CHANNEL 4 E4"
+    },
+    {
+        "tvg-id": "Film4.HD.uk",
+        "channel-name": "CHANNEL 4 Film4"
+    },
+    {
+        "tvg-id": "More4.HD.uk",
+        "channel-name": "CHANNEL 4 More4"
+    },
+    {
+        "tvg-id": "Animal.Planet.ph",
+        "channel-name": "CIGNAL Animal Planet"
+    },
+    {
+        "tvg-id": "Bbcearth.Hd.ph",
+        "channel-name": "CIGNAL BBC Earth HD"
+    },
+    {
+        "tvg-id": "Cartoon.Net.Hd.ph",
+        "channel-name": "CIGNAL Cartoon Network HD"
+    },
+    {
+        "tvg-id": "Cg.Cinemax.ph",
+        "channel-name": "CIGNAL Cinemax HD"
+    },
+    {
+        "tvg-id": "Cnn.Hd.ph",
+        "channel-name": "CIGNAL CNN HD"
+    },
+    {
+        "tvg-id": "Dreamworks.Hd.ph",
+        "channel-name": "CIGNAL DreamWorks HD"
+    },
+    {
+        "tvg-id": "Foodnetwork.Hd.ph",
+        "channel-name": "CIGNAL Food Network HD"
+    },
+    {
+        "tvg-id": "Cg.Hbofam.ph",
+        "channel-name": "CIGNAL HBO Family HD"
+    },
+    {
+        "tvg-id": "Cg.Hbohd.ph",
+        "channel-name": "CIGNAL HBO HD"
+    },
+    {
+        "tvg-id": "Cg.Hbohits.ph",
+        "channel-name": "CIGNAL HBO Hits HD"
+    },
+    {
+        "tvg-id": "Cg.Hbosign.ph",
+        "channel-name": "CIGNAL HBO Signature HD"
+    },
+    {
+        "tvg-id": "History.Hd.ph",
+        "channel-name": "CIGNAL History HD"
+    },
+    {
+        "tvg-id": "Hits.Hd.ph",
+        "channel-name": "CIGNAL Hits HD"
+    },
+    {
+        "tvg-id": "Hits.Movies.ph",
+        "channel-name": "CIGNAL HITS Movies"
+    },
+    {
+        "tvg-id": "Cg.Hitsnow.ph",
+        "channel-name": "CIGNAL HITS Now"
+    },
+    {
+        "tvg-id": "Cgnl.Nba.ph",
+        "channel-name": "CIGNAL NBA TV Philippines"
+    },
+    {
+        "tvg-id": "Onenews.Hd.ph",
+        "channel-name": "CIGNAL One News"
+    },
+    {
+        "tvg-id": "Oneph.ph",
+        "channel-name": "CIGNAL One PH"
+    },
+    {
+        "tvg-id": "Onesports.ph",
+        "channel-name": "CIGNAL One Sports HD"
+    },
+    {
+        "tvg-id": "Onesportsplus.Hd.ph",
+        "channel-name": "CIGNAL One Sports+"
+    },
+    {
+        "tvg-id": "Pbarush.Hd.ph",
+        "channel-name": "CIGNAL PBA Rush"
+    },
+    {
+        "tvg-id": "Pbo.ph",
+        "channel-name": "CIGNAL Pinoy Box Office"
+    },
+    {
+        "tvg-id": "Premiersports.Hd.ph",
+        "channel-name": "CIGNAL Premier Sports HD"
+    },
+    {
+        "tvg-id": "Rptv.ph",
+        "channel-name": "CIGNAL RPTV HD"
+    },
+    {
+        "tvg-id": "Tapactionflix.Hd.ph",
+        "channel-name": "CIGNAL Tap Action Flix HD"
+    },
+    {
+        "tvg-id": "Tapmovies.Hd.ph",
+        "channel-name": "CIGNAL TAP Movies HD"
+    },
+    {
+        "tvg-id": "Tv5.ph",
+        "channel-name": "CIGNAL TV5 HD"
+    },
+    {
+        "tvg-id": "Cg.Tvnpre.ph",
+        "channel-name": "CIGNAL tvN Premium HD"
+    },
+    {
+        "tvg-id": "Uaap.Varsity.ph",
+        "channel-name": "CIGNAL UAAP Varsity Channel"
+    },
+    {
+        "tvg-id": "VIVA.Cinema.ph",
+        "channel-name": "CIGNAL Viva Cinema"
+    },
+    {
+        "tvg-id": "CINEMO!.ph",
+        "channel-name": "Cine Mo!"
+    },
+    {
+        "tvg-id": "CINEMO!.ph",
+        "channel-name": "Cine Mo! (Stream 2)"
+    },
+    {
+        "tvg-id": "CINEMA.ONE.ph",
+        "channel-name": "Cinema One"
+    },
+    {
+        "tvg-id": "Cinemax.-.Eastern.Feed.us",
+        "channel-name": "CINEMAX"
+    },
+    {
+        "tvg-id": "Bilyonaryoch.ph",
+        "channel-name": "CONVERGE BILYONARYO CHANNEL"
+    },
+    {
+        "tvg-id": "CINEMO!.ph",
+        "channel-name": "CONVERGE Cine Mo!"
+    },
+    {
+        "tvg-id": "Cinema.One.ph",
+        "channel-name": "CONVERGE Cinema One"
+    },
+    {
+        "tvg-id": "GMA.ph",
+        "channel-name": "CONVERGE GMA 7"
+    },
+    {
+        "tvg-id": "GTV.ph",
+        "channel-name": "CONVERGE GTV"
+    },
+    {
+        "tvg-id": "Solar.Flix.ph",
+        "channel-name": "CONVERGE SOLARFLIX"
+    },
+    {
+        "tvg-id": "HBO.-.Pacific.Feed.us",
+        "channel-name": "HBO"
+    },
+    {
+        "tvg-id": "HBO.2.-.Eastern.Feed.us",
+        "channel-name": "HBO 2"
+    },
+    {
+        "tvg-id": "HBO.Comedy.HD.-.East.us",
+        "channel-name": "HBO COMEDY"
+    },
+    {
+        "tvg-id": "HBO.Family.-.Eastern.Feed.us",
+        "channel-name": "HBO FAMILY"
+    },
+    {
+        "tvg-id": "HBO.Signature.(HBO.3).-.Eastern.us",
+        "channel-name": "HBO SIGNATURE"
+    },
+    {
+        "tvg-id": "HBO.Zone.HD.-.East.us",
+        "channel-name": "HBO ZONE"
+    },
+    {
+        "tvg-id": "ANC.ph",
+        "channel-name": "IWANTTFC ANC"
+    },
+    {
+        "tvg-id": "Kapamilya.Channel.ph",
+        "channel-name": "IWANTTFC Kapamilya Channel"
+    },
+    {
+        "tvg-id": "MYX.ph",
+        "channel-name": "IWANTTFC MYX"
+    },
+    {
+        "tvg-id": "TELERADYO.ph",
+        "channel-name": "IWANTTFC Teleradyo Serbisyo"
+    },
+    {
+        "tvg-id": "Animax.(HD).sg",
+        "channel-name": "MEDIACORP Animax HD"
+    },
+    {
+        "tvg-id": "CNA.(HD).sg",
+        "channel-name": "MEDIACORP CNA"
+    },
+    {
+        "tvg-id": "MoreMax..Eastern.us",
+        "channel-name": "MOREMAX"
+    },
+    {
+        "tvg-id": "plex.tv.MOVIESPHERE.plex",
+        "channel-name": "MovieSphere"
+    },
+    {
+        "tvg-id": "Nickelodeon.USA.-.East.Feed.us",
+        "channel-name": "NICKELODEON"
+    },
+    {
+        "tvg-id": "Nicktoons.-.East.us",
+        "channel-name": "NICKTOONS"
+    },
+    {
+        "tvg-id": "Paramount.Network.USA.-.Eastern.Feed.us",
+        "channel-name": "PARAMOUNT NETWORK"
+    },
+    {
+        "tvg-id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+        "channel-name": "PEACOCK E!"
+    },
+    {
+        "tvg-id": "plex.tv.MOVIESPHERE.plex",
+        "channel-name": "PEACOCK MovieSphere"
+    },
+    {
+        "tvg-id": "NBC.Sports.us",
+        "channel-name": "PEACOCK NBC Sports"
+    },
+    {
+        "tvg-id": "NFL.Network.us",
+        "channel-name": "PEACOCK NFL Channel"
+    },
+    {
+        "tvg-id": "Premier.League.Dummy.us",
+        "channel-name": "PEACOCK Premier League"
+    },
+    {
+        "tvg-id": "Sky.News.HD.uk",
+        "channel-name": "PEACOCK Sky News"
+    },
+    {
+        "tvg-id": "Syfy.-.Eastern.Feed.us",
+        "channel-name": "PEACOCK SYFY East"
+    },
+    {
+        "tvg-id": "Syfy.-.Eastern.Feed.us",
+        "channel-name": "PEACOCK SYFY West"
+    },
+    {
+        "tvg-id": "USA.Network.-.East.Feed.us",
+        "channel-name": "PEACOCK USA East"
+    },
+    {
+        "tvg-id": "USA.Network.-.East.Feed.us",
+        "channel-name": "PEACOCK USA West"
+    },
+    {
+        "tvg-id": "WWE.Network.us",
+        "channel-name": "PEACOOCK WWE Network"
+    },
+    {
+        "tvg-id": "Go3.Sport.1.lt",
+        "channel-name": "PLAYHOME Go 3 Sport 1"
+    },
+    {
+        "tvg-id": "Go3.Sport.2.lt",
+        "channel-name": "PLAYHOME Go 3 Sport 2"
+    },
+    {
+        "tvg-id": "Go3.Sport.3.lt",
+        "channel-name": "PLAYHOME Go 3 Sport 3"
+    },
+    {
+        "tvg-id": "Go3.Sport.4.lt",
+        "channel-name": "PLAYHOME Go 3 Sport 4"
+    },
+    {
+        "tvg-id": "plex.tv.RetroCrush.plex",
+        "channel-name": "Retro Crush"
+    },
+    {
+        "tvg-id": "plex.tv.Reuters.TV.plex",
+        "channel-name": "Reuters Now"
+    },
+    {
+        "tvg-id": "plex.tv.Scares.by.Shudder.plex",
+        "channel-name": "Scares by Shudder"
+    },
+    {
+        "tvg-id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
+        "channel-name": "SHOWTIME"
+    },
+    {
+        "tvg-id": "Showtime.Extreme.-.Eastern.us",
+        "channel-name": "Showtime Extreme"
+    },
+    {
+        "tvg-id": "Sportsnet.360.ca",
+        "channel-name": "SPORTSNET 360"
+    },
+    {
+        "tvg-id": "Sportsnet.(East).-.Satellite/Digital.HD.ca",
+        "channel-name": "SPORTSNET EAST"
+    },
+    {
+        "tvg-id": "Sportsnet.One.HD.ca",
+        "channel-name": "SPORTSNET ONE"
+    },
+    {
+        "tvg-id": "Sportsnet.(Ontario).HD.ca",
+        "channel-name": "SPORTSNET ONTARIO"
+    },
+    {
+        "tvg-id": "Sportsnet.(Pacific).-.Satellite/Digital.HD.ca",
+        "channel-name": "SPORTSNET PACIFIC"
+    },
+    {
+        "tvg-id": "Sportsnet.(West).-.Satellite/Digital.HD.ca",
+        "channel-name": "SPORTSNET WEST"
+    },
+    {
+        "tvg-id": "Sportsnet.World.HD.ca",
+        "channel-name": "SPORTSNET WORLD"
+    },
+    {
+        "tvg-id": "Adult.Swim.-.East.HD.ca",
+        "channel-name": "STACKTV Adult Swim"
+    },
+    {
+        "tvg-id": "Disney.Channel.Canada.-.East.ca",
+        "channel-name": "STACKTV Disney Channel"
+    },
+    {
+        "tvg-id": "Disney.Junior.Canada.ca",
+        "channel-name": "STACKTV Disney Junior"
+    },
+    {
+        "tvg-id": "Disney.XD.Canada.ca",
+        "channel-name": "STACKTV Disney XD"
+    },
+    {
+        "tvg-id": "Starz.-.Eastern.us",
+        "channel-name": "STARZ"
+    },
+    {
+        "tvg-id": "Starz.Cinema.HD.-.Eastern.us",
+        "channel-name": "STARZ CINEMA"
+    },
+    {
+        "tvg-id": "Starz.Comedy.HD.-.Eastern.us",
+        "channel-name": "STARZ COMEDY"
+    },
+    {
+        "tvg-id": "Starz.Edge.-.Eastern.us",
+        "channel-name": "STARZ EDGE"
+    },
+    {
+        "tvg-id": "Starz.Encore.Westerns.-.Eastern.us",
+        "channel-name": "STARZ WESTERNS"
+    },
+    {
+        "tvg-id": "",
+        "channel-name": "The Film Detective"
+    },
+    {
+        "tvg-id": "MN+.HD.in",
+        "channel-name": "TIMESPLAY MN+"
+    },
+    {
+        "tvg-id": "MNX.HD.in",
+        "channel-name": "TIMESPLAY MNX"
+    },
+    {
+        "tvg-id": "MOVIES.NOW.HD.in",
+        "channel-name": "TIMESPLAY Movies Now"
+    },
+    {
+        "tvg-id": "ROMEDY.NOW.in",
+        "channel-name": "TIMESPLAY Romedy Now"
+    },
+    {
+        "tvg-id": "TNT.Sports.1.HD.uk",
+        "channel-name": "TNT Sports 1"
+    },
+    {
+        "tvg-id": "TNT.Sports.2.HD.uk",
+        "channel-name": "TNT Sports 2"
+    },
+    {
+        "tvg-id": "TNT.Sports.3.HD.uk",
+        "channel-name": "TNT Sports 3"
+    },
+    {
+        "tvg-id": "TNT.Sports.4.HD.uk",
+        "channel-name": "TNT Sports 4"
+    },
+    {
+        "tvg-id": "test",
+        "channel-name": "Toonami Aftermath East"
+    },
+    {
+        "tvg-id": "test",
+        "channel-name": "Toonami Aftermath Movie"
+    },
+    {
+        "tvg-id": "test",
+        "channel-name": "Toonami Aftermath Radio"
+    },
+    {
+        "tvg-id": "test",
+        "channel-name": "Toonami Aftermath West"
+    },
+    {
+        "tvg-id": "test",
+        "channel-name": "TRANSVISION Cartoon TV Classics (ID VPN)"
+    },
+    {
+        "tvg-id": "plex.tv.Yahoo.Finance.plex",
+        "channel-name": "Yahoo! Finance"
+    },
+    {
+        "tvg-id": "plex.tv.Yahoo.Finance.plex",
+        "channel-name": "Yahoo! Finance (Stream 2)"
+    }
+]

@@ -1,0 +1,34 @@
+name: DaddyLive EPG Grabber
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  epg-grabber:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run epg grabber
+        run: cd daddylive && python daddylive-epg-grabber.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add epgs/daddylive-epg.xml epgs/daddylive-epg.xml.gz
+          git diff --staged --quiet || git commit -m "Update epg"
+          git push --force

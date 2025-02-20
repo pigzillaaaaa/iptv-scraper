@@ -1,0 +1,1418 @@
+[
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "A.and.E.US.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",
+        "tvg-name": "A&E",
+        "channel-name": "A&E",
+        "stream-name": "AEEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "ABC.(KABC).Los.Angeles,.CA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
+        "tvg-name": "ABC (KABC)",
+        "channel-name": "ABC (KABC) Los Angeles",
+        "stream-name": "abc-kabc-los-angeles-ca"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "ABC.(WABC).New.York,.NY.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",
+        "tvg-name": "ABC (WABC)",
+        "channel-name": "ABC (WABC)",
+        "stream-name": "WABCDT1"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ACC.Network.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",
+        "tvg-name": "ACC NETWORK",
+        "channel-name": "ACC NETWORK",
+        "stream-name": "ACCNetwork"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "AMC.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",
+        "tvg-name": "AMC",
+        "channel-name": "AMC - Eastern Feed",
+        "stream-name": "AMCEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Altitude.Sports.-.Denver.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true",
+        "tvg-name": "Altitude Sports",
+        "channel-name": "Altitude Sports Denver",
+        "stream-name": "altitude-sports-denver"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "American.Heroes.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png",
+        "tvg-name": "American Heroes Channel",
+        "channel-name": "American Heroes Channel",
+        "stream-name": "AmericanHeroesChannel"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Animal.Planet.US.-.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",
+        "tvg-name": "Animal Planet",
+        "channel-name": "Animal Planet US - East",
+        "stream-name": "AnimalPlanetEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "BBC.America.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",
+        "tvg-name": "BBC AMERICA",
+        "channel-name": "BBC AMERICA - East",
+        "stream-name": "BBCAmericaEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "BBC.World.News.North.America.(BBCWN).us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png",
+        "tvg-name": "BBC News Channel HD",
+        "channel-name": "BBC News - North America HD",
+        "stream-name": "BBCWorldNewsNorthAmerica"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "BET.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",
+        "tvg-name": "BET",
+        "channel-name": "BET - Eastern Feed",
+        "stream-name": "BETEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "BET.Her.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",
+        "tvg-name": "BET HER",
+        "channel-name": "BET HER",
+        "stream-name": "BETHerEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Big.Ten.Network.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",
+        "tvg-name": "Big Ten Network HD",
+        "channel-name": "Big Ten Network",
+        "stream-name": "BTN"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "Bloomberg.TV.USA.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true",
+        "tvg-name": "BLOOMBERG",
+        "channel-name": "BLOOMBERG TV USA",
+        "stream-name": "BloombergTV"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Boomerang.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",
+        "tvg-name": "Boomerang",
+        "channel-name": "Boomerang",
+        "stream-name": "Boomerang"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Bravo.USA.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",
+        "tvg-name": "BRAVO",
+        "channel-name": "BRAVO USA - Eastern Feed",
+        "stream-name": "BravoEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "C-SPAN.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png",
+        "tvg-name": "C-SPAN",
+        "channel-name": "C-SPAN",
+        "stream-name": "CSPAN"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CSPAN2.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png",
+        "tvg-name": "C-SPAN 2",
+        "channel-name": "C-SPAN 2",
+        "stream-name": "CSPAN2"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CBS.(KCBS).Los.Angeles,.CA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png",
+        "tvg-name": "CBSLA (KCBS) Los Angeles",
+        "channel-name": "CBSLA (KCBS) Los Angeles",
+        "stream-name": "cbs-kcbs-los-angeles-ca"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CBS.(WCBS).New.York,.NY.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png",
+        "tvg-name": "CBSNY",
+        "channel-name": "CBSNY (WCBS) New York",
+        "stream-name": "WCBSDT1"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "CBS.Sports.Network.USA.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",
+        "tvg-name": "CBS SPORTS NETWORK",
+        "channel-name": "CBS SPORTS NETWORK USA",
+        "stream-name": "CBSSportsNetworkUSA"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "CMT.US.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png",
+        "tvg-name": "CMT",
+        "channel-name": "CMT US - Eastern Feed",
+        "stream-name": "CMTEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CNBC.USA.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",
+        "tvg-name": "CNBC FHD",
+        "channel-name": "CNBC USA",
+        "stream-name": "CNBC"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CNN.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",
+        "tvg-name": "CNN",
+        "channel-name": "CNN US",
+        "stream-name": "CNN"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CW.(KFMB-TV2).San.Diego,.CA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png",
+        "tvg-name": "CW (WUCW)",
+        "channel-name": "CW (WUCW) (KFMB-TV2) San Diego",
+        "stream-name": "cw-kfmbtv2-san-diego-ca"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "CW.(WDCW).District.of.Columbia.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png",
+        "tvg-name": "CW (WDCW)",
+        "channel-name": "CW (WDCW) District of Columbia",
+        "stream-name": "cw-wdcw-district-of-columbia"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Cartoon.Network.USA.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",
+        "tvg-name": "CARTOON NETWORK",
+        "channel-name": "CARTOON NETWORK USA - Eastern Feed",
+        "stream-name": "CartoonNetworkEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Chicago.Sports.Network.us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png",
+        "tvg-name": "Chicago Sports Network",
+        "channel-name": "Chicago Sports Network",
+        "stream-name": "chicago-sports-network"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Cinemax.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png",
+        "tvg-name": "CINEMAX EAST",
+        "channel-name": "CINEMAX - Eastern Feed",
+        "stream-name": "CinemaxEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Comedy.Central.(US).-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",
+        "tvg-name": "COMEDY CENTRAL",
+        "channel-name": "COMEDY CENTRAL (US) - Eastern Feed",
+        "stream-name": "ComedyCentralEast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Crime.and.Investigation.Network.USA.HD.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true",
+        "tvg-name": "Crime + Investigation",
+        "channel-name": "Crime + Investigation USA HD",
+        "stream-name": "CrimePlusInvestigation"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Destination.America.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",
+        "tvg-name": "Destination America",
+        "channel-name": "Destination America",
+        "stream-name": "DestinationAmerica"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Discovery.Channel.(US).-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",
+        "tvg-name": "Discovery Channel",
+        "channel-name": "Discovery Channel (US) - Eastern Feed",
+        "stream-name": "DiscoveryChannelEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Discovery.Family.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",
+        "tvg-name": "DISCOVERY FAMILY CHANNEL",
+        "channel-name": "DISCOVERY FAMILY CHANNEL",
+        "stream-name": "DiscoveryFamily"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Discovery.Life.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",
+        "tvg-name": "DISCOVERY LIFE",
+        "channel-name": "DISCOVERY LIFE Channel",
+        "stream-name": "DiscoveryLife"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Disney.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",
+        "tvg-name": "DISNEY CHANNEL",
+        "channel-name": "DISNEY CHANNEL - Eastern Feed",
+        "stream-name": "DisneyChannelEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Disney.Junior.USA.-.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png",
+        "tvg-name": "Disney JR",
+        "channel-name": "Disney JR USA - East",
+        "stream-name": "DisneyJuniorEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Disney.XD.USA.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",
+        "tvg-name": "Disney XD",
+        "channel-name": "Disney XD USA - Eastern Feed",
+        "stream-name": "DisneyXDEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "E!.Entertainment.USA.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png",
+        "tvg-name": "E! Entertainment Television",
+        "channel-name": "E! Entertainment Television USA - Eastern Feed",
+        "stream-name": "EEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ESPN.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "tvg-name": "ESPN",
+        "channel-name": "ESPN",
+        "stream-name": "ESPN"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ESPN.Deportes.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png",
+        "tvg-name": "ESPN Deportes",
+        "channel-name": "ESPN Deportes",
+        "stream-name": "espn-deportes"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ESPN.News.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",
+        "tvg-name": "ESPN NEWS",
+        "channel-name": "ESPN NEWS",
+        "stream-name": "ESPNews"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ESPN.U.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",
+        "tvg-name": "ESPN U",
+        "channel-name": "ESPN U",
+        "stream-name": "ESPNU"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "ESPN2.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",
+        "tvg-name": "ESPN 2",
+        "channel-name": "ESPN 2",
+        "stream-name": "ESPN2"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "FOX.(KTTV).Los.Angeles,.CA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png",
+        "tvg-name": "FOX (KTTV)",
+        "channel-name": "FOX (KTTV) Los Angeles",
+        "stream-name": "fox-kttv-los-angeles-ca"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "FOX.(WNYW).New.York,.NY.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",
+        "tvg-name": "FOXNY",
+        "channel-name": "FOXNY",
+        "stream-name": "WNYWDT1"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "FUSE.TV.-.Eastern.feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png",
+        "tvg-name": "Fuse",
+        "channel-name": "Fuse TV - Eastern feed",
+        "stream-name": "FuseEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "FX.Movie.Channel.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",
+        "tvg-name": "FX Movie Channel",
+        "channel-name": "FX Movie Channel",
+        "stream-name": "FXMovieChannel"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "FX.Networks.East.Coast.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",
+        "tvg-name": "FX Networks East Coast",
+        "channel-name": "FX Networks East Coast",
+        "stream-name": "FXEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "FXX.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",
+        "tvg-name": "FXX",
+        "channel-name": "FXX USA - Eastern",
+        "stream-name": "FXXEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "FXX.USA.-.Eastern.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png",
+        "tvg-name": "FYI",
+        "channel-name": "FYI USA - Eastern",
+        "stream-name": "FYIEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Indiana.us",
+        "tvg-logo": "https://i.imgur.com/HUgEVWQ.png",
+        "tvg-name": "FanDuel SN Indiana",
+        "channel-name": "FanDuel SN Indiana",
+        "stream-name": "fanduel-sports-indiana"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Detroit.HD.us",
+        "tvg-logo": "https://i.imgur.com/1MDxLZf.png",
+        "tvg-name": "FanDuel SN Detroit",
+        "channel-name": "FanDuel SN Detroit",
+        "stream-name": "fanduel-sports-network-detroit-hd"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Florida.us",
+        "tvg-logo": "https://i.imgur.com/fuCM2ei.png",
+        "tvg-name": "FanDuel SN Florida",
+        "channel-name": "FanDuel SN Florida",
+        "stream-name": "fanduel-sports-network-florida"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Great.Lakes.us",
+        "tvg-logo": "https://i.imgur.com/mPpaZCR.png",
+        "tvg-name": "FanDuel SN Great Lakes",
+        "channel-name": "FanDuel SN Great Lakes",
+        "stream-name": "fanduel-sports-network-great-lakes"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.North.us",
+        "tvg-logo": "https://i.imgur.com/qfu8djF.png",
+        "tvg-name": "FanDuel SN North",
+        "channel-name": "FanDuel SN North",
+        "stream-name": "fanduel-sports-network-north"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Ohio.-.Cleveland.us",
+        "tvg-logo": "https://i.imgur.com/U4kf3x6.png",
+        "tvg-name": "FanDuel SN Ohio",
+        "channel-name": "FanDuel SN Ohio",
+        "stream-name": "fanduel-sports-network-ohio-cleveland"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Oklahoma.us",
+        "tvg-logo": "https://i.imgur.com/mx7lyh5.png",
+        "tvg-name": "FanDuel SN Oklahoma",
+        "channel-name": "FanDuel SN Oklahoma",
+        "stream-name": "fanduel-sports-network-oklahoma"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.San.Diego.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Network San Diego",
+        "channel-name": "Fanduel Sports Network San Diego",
+        "stream-name": "fanduel-sports-network-san-diego"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.SoCal.us",
+        "tvg-logo": "https://i.imgur.com/yywNI3M.png",
+        "tvg-name": "FanDuel SN SoCal",
+        "channel-name": "FanDuel SN SoCal",
+        "stream-name": "fanduel-sports-network-socal"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuelSportsNetwork(South).us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Network South Carolinas",
+        "channel-name": "Fanduel Sports Network South Carolinas",
+        "stream-name": "fanduel-sports-network-south-carolinas"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.South-.Tennessee.(USA).us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Network South Tennessee",
+        "channel-name": "Fanduel Sports Network South Tennessee",
+        "stream-name": "fanduel-sports-network-south-tennessee-usa"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.West.us",
+        "tvg-logo": "https://i.imgur.com/cv546ko.png",
+        "tvg-name": "FanDuel SN West",
+        "channel-name": "FanDuel SN West",
+        "stream-name": "fanduel-sports-network-west"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Network.Wisconsin.us",
+        "tvg-logo": "https://i.imgur.com/Ku0ibaF.png",
+        "tvg-name": "FanDuel SN Wisconsin",
+        "channel-name": "FanDuel SN Wisconsin",
+        "stream-name": "fanduel-sports-network-wisconsin"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Southeast.-.Georgia.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Southeast Georgia",
+        "channel-name": "Fanduel Sports Southeast Georgia",
+        "stream-name": "fanduel-sports-southeast-georgia"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Southeast.-.North.Carolina.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Southeast North Carolina",
+        "channel-name": "Fanduel Sports Southeast North Carolina",
+        "stream-name": "fanduel-sports-southeast-north-carolina"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Southeast.-.South.Carolina.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Southeast South Carolina",
+        "channel-name": "Fanduel Sports Southeast South Carolina",
+        "stream-name": "fanduel-sports-southeast-south-carolina"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports.Southeast.-.Tennessee.Nashville.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Southeast Tennessee Nashville",
+        "channel-name": "Fanduel Sports Southeast Tennessee Nashville",
+        "stream-name": "fanduel-sports-southeast-tennessee-nashville"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Fanduel.Sports.Sun.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Sun",
+        "channel-name": "Fanduel Sports Sun",
+        "stream-name": "fanduel-sports-sun"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "FanDuel.Sports..-.Tennessee.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png",
+        "tvg-name": "Fanduel Sports Tennessee East",
+        "channel-name": "Fanduel Sports Tennessee East",
+        "stream-name": "fanduel-sports-tennessee-east"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Food.Network.USA.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",
+        "tvg-name": "FOOD NETWORK",
+        "channel-name": "FOOD NETWORK USA - Eastern Feed",
+        "stream-name": "FoodNetworkEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "Fox.Business.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png",
+        "tvg-name": "Fox Business",
+        "channel-name": "Fox Business",
+        "stream-name": "FoxBusiness"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "Fox.News.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png",
+        "tvg-name": "Fox News",
+        "channel-name": "Fox News",
+        "stream-name": "FoxNewsChannel"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Fox.Sports.1.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",
+        "tvg-name": "Fox Sports 1",
+        "channel-name": "Fox Sports 1",
+        "stream-name": "FoxSports1"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Fox.Sports.2.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png",
+        "tvg-name": "Fox Sports 2",
+        "channel-name": "Fox Sports 2",
+        "stream-name": "FoxSports2"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Freeform.-.East.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png",
+        "tvg-name": "Freeform",
+        "channel-name": "Freeform - East Feed",
+        "stream-name": "FreeformEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Game.Show.Network.-.East.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true",
+        "tvg-name": "GAME SHOW NETWORK",
+        "channel-name": "GAME SHOW NETWORK East",
+        "stream-name": "game-show-network-east"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Golf.Channel.USA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png",
+        "tvg-name": "GOLF Channel",
+        "channel-name": "GOLF Channel USA",
+        "stream-name": "GolfChannel"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
+        "tvg-name": "HBO",
+        "channel-name": "HBO - Eastern Feed",
+        "stream-name": "HBOEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.2.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",
+        "tvg-name": "HBO 2",
+        "channel-name": "HBO 2 - Eastern Feed",
+        "stream-name": "HBO2East"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.Comedy.HD.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",
+        "tvg-name": "HBO Comedy",
+        "channel-name": "HBO Comedy HD - East",
+        "stream-name": "HBOComedyEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.Family.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",
+        "tvg-name": "HBO Family",
+        "channel-name": "HBO Family - Eastern Feed",
+        "stream-name": "HBOFamilyEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.Signature.(HBO.3).-.Eastern.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png",
+        "tvg-name": "HBO Signature",
+        "channel-name": "HBO Signature (HBO 3) - Eastern",
+        "stream-name": "HBOSignatureEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "HBO.Zone.HD.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",
+        "tvg-name": "HBO Zone",
+        "channel-name": "HBO Zone HD - East",
+        "stream-name": "HBOZoneEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "HGTV.USA.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",
+        "tvg-name": "HGTV",
+        "channel-name": "HGTV USA - Eastern Feed",
+        "stream-name": "HGTVEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "HLN.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png",
+        "tvg-name": "HLN",
+        "channel-name": "HLN",
+        "stream-name": "HLN"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Hallmark.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",
+        "tvg-name": "Hallmark Channel",
+        "channel-name": "Hallmark Channel - Eastern Feed",
+        "stream-name": "HallmarkChannelEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Hallmark.Drama.HDTV.(HALDRHD).us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true",
+        "tvg-name": "Hallmark Family",
+        "channel-name": "Hallmark Family HD",
+        "stream-name": "HallmarkDrama"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Hallmark.Mystery.Eastern.-.HD.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",
+        "tvg-name": "Hallmark Mystery",
+        "channel-name": "Hallmark Mystery - HD",
+        "stream-name": "HallmarkMoviesMysteriesEast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "History.Channel.US.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",
+        "tvg-name": "History",
+        "channel-name": "History Channel US - Eastern Feed",
+        "stream-name": "HistoryEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "ION..-.Eastern.Feed.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true",
+        "tvg-name": "ION",
+        "channel-name": "ION - Eastern Feed",
+        "stream-name": "IONTVEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "IFC.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png",
+        "tvg-name": "IFC Independent Film Channel US",
+        "channel-name": "IFC Independent Film Channel US",
+        "stream-name": "IFCEast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Investigation.Discovery.USA.-.Eastern.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png",
+        "tvg-name": "ID (Investigation Discovery)",
+        "channel-name": "ID (Investigation Discovery) USA - Eastern",
+        "stream-name": "InvestigationDiscoveryEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "LOGO.-.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png",
+        "tvg-name": "LOGO - East",
+        "channel-name": "LOGO - East",
+        "stream-name": "LogoEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Lifetime.Movies.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png",
+        "tvg-name": "Lifetime Movies Network",
+        "channel-name": "Lifetime Movies Network - East",
+        "stream-name": "LifetimeMoviesEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Lifetime.Network.US.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",
+        "tvg-name": "Lifetime",
+        "channel-name": "Lifetime Network US - Eastern Feed",
+        "stream-name": "LifetimeEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "MLB.Network.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png",
+        "tvg-name": "MLB Network",
+        "channel-name": "MLB Network",
+        "stream-name": "MLBNetwork"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "MSG.(Madison.Square.Gardens).us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png",
+        "tvg-name": "MSG",
+        "channel-name": "MSG Madison Square Gardens",
+        "stream-name": "msg-madison-square-gardens"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "MSG.Plus.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png",
+        "tvg-name": "MSG Plus",
+        "channel-name": "MSG Plus",
+        "stream-name": "msg-plus"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "MSNBC.USA.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",
+        "tvg-name": "MSNBC",
+        "channel-name": "MSNBC USA",
+        "stream-name": "MSNBC"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "MTV.USA.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",
+        "tvg-name": "MTV",
+        "channel-name": "MTV USA - Eastern Feed",
+        "stream-name": "mtv-2-east"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "MTV.2.-.East.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true",
+        "tvg-name": "MTV 2",
+        "channel-name": "MTV 2 East",
+        "stream-name": "MTVEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Marquee.Sports.Network.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png",
+        "tvg-name": "Marquee Sports Network",
+        "channel-name": "Marquee Sports Network",
+        "stream-name": "marquee-sports-network"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "MeTV.Toons.(WJLP2).NJ.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png",
+        "tvg-name": "MeTV Toons",
+        "channel-name": "MeTV Toons (WJLP2) New Jersey",
+        "stream-name": "metv-toons"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Me.TV.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-us.png",
+        "tvg-name": "MeTV Wjlp",
+        "channel-name": "MeTV Wjlp New Jersey New York",
+        "stream-name": "metv-wjlp-new-jerseynew-york"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Mid-Atlantic.Sports.Network.us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png",
+        "tvg-name": "Midatlantic Sports Network ",
+        "channel-name": "Midatlantic Sports Network",
+        "stream-name": "midatlantic-sports-network"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Monumental.Sports.Network.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png",
+        "tvg-name": "Monumental Sports Network",
+        "channel-name": "Monumental Sports Network",
+        "stream-name": "monumental-sports-network"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "MoreMax..Eastern.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",
+        "tvg-name": "CINEMAX MOREMAX",
+        "channel-name": "CINEMAX MOREMAX Eastern",
+        "stream-name": "MoreMaxEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Motor.Trend.HD.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png",
+        "tvg-name": "Motor Trend",
+        "channel-name": "Motor Trend HD",
+        "stream-name": "Motortrend"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "MovieMax.(Max.6).-.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png",
+        "tvg-name": "MovieMax (Max 6) - East",
+        "channel-name": "MovieMax (Max 6) - East",
+        "stream-name": "MovieMaxEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NBA.TV.USA.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",
+        "tvg-name": "NBA TV",
+        "channel-name": "NBA TV USA",
+        "stream-name": "NBATV"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "NBC.(KNBC).Los.Angeles,.CA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png",
+        "tvg-name": "NBC (KNBC)",
+        "channel-name": "NBC (KNBC) Los Angeles",
+        "stream-name": "nbc-knbc-los-angeles-ca"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "NBC.(WNBC).New.York,.NY.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",
+        "tvg-name": "NBC",
+        "channel-name": "NBC (WNBC) New York, NY",
+        "stream-name": "WNBCDT1"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NBC.Sports.Bay.Area.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true",
+        "tvg-name": "NBC Sports Bay Area",
+        "channel-name": "NBC Sports Bay Area",
+        "stream-name": "nbc-sports-bay-area"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NBC.Sports.Boston.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true",
+        "tvg-name": "NBC Sports Boston",
+        "channel-name": "NBC Sports Boston",
+        "stream-name": "nbc-sports-boston"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NBC.Sports.California.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true",
+        "tvg-name": "NBC Sports California",
+        "channel-name": "NBC Sports California",
+        "stream-name": "nbc-sports-california"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true",
+        "tvg-name": "NBC Sports Philadelphia",
+        "channel-name": "NBC Sports Philadelphia",
+        "stream-name": "nbc-sports-philadelphia"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NFL.Network.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png",
+        "tvg-name": "NFL Network",
+        "channel-name": "NFL Network",
+        "stream-name": "NFLNetwork"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NFL.RedZone.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",
+        "tvg-name": "NFL RedZone",
+        "channel-name": "NFL RedZone",
+        "stream-name": "NFLRedZone"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "NHL.Network.USA.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",
+        "tvg-name": "NHL Network",
+        "channel-name": "NHL Network USA",
+        "stream-name": "NHLNetwork"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "National.Geographic.US.-.Eastern.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",
+        "tvg-name": "National Geographic",
+        "channel-name": "National Geographic US - Eastern",
+        "stream-name": "NationalGeographicEast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "National.Geographic.Wild.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png",
+        "tvg-name": "National Geographic Wild",
+        "channel-name": "National Geographic Wild",
+        "stream-name": "NationalGeographicWildEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "New.England.Sports.Network.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png",
+        "tvg-name": "New England Sports Network",
+        "channel-name": "New England Sports Network",
+        "stream-name": "new-england-sports-network"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "NewsMax.TV.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png",
+        "tvg-name": "Newsmax",
+        "channel-name": "Newsmax TV",
+        "stream-name": "NewsmaxTV"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Nick.Jr..-.East.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",
+        "tvg-name": "NICK JR.",
+        "channel-name": "NICK JR. - East",
+        "stream-name": "NickJrEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Nickelodeon.USA.-.East.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",
+        "tvg-name": "Nickelodeon",
+        "channel-name": "Nickelodeon USA - East Feed",
+        "stream-name": "NickelodeonEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Nicktoons.-.East.us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",
+        "tvg-name": "Nicktoons",
+        "channel-name": "Nicktoons - East",
+        "stream-name": "NicktoonsEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Oprah.Winfrey.Network.USA.Eastern.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true",
+        "tvg-name": "Oprah Winfrey Network",
+        "channel-name": "Oprah Winfrey Network USA Eastern",
+        "stream-name": "OWNEast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Outdoor.Channel.US.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",
+        "tvg-name": "Outdoor Channel",
+        "channel-name": "Outdoor Channel US",
+        "stream-name": "OutdoorChannel"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Oxygen.-.Eastern.Feed.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true",
+        "tvg-name": "Oxygen",
+        "channel-name": "Oxygen - Eastern Feed",
+        "stream-name": "OxygenEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "PBS.-.Network.HD.-.Eastern.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-us.png",
+        "tvg-name": "PBS (WNET) New York, NY",
+        "channel-name": "PBS (WNET) New York, NY",
+        "stream-name": "WNET"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "ReelzChannel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png",
+        "tvg-name": "ReelzChannel",
+        "channel-name": "ReelzChannel",
+        "stream-name": "Reelz"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "SEC.Network.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true",
+        "tvg-name": "SEC Network",
+        "channel-name": "SEC Network",
+        "stream-name": "SECN"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "SNY:.SportsNet.New.York.(Comcast).us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png",
+        "tvg-name": "SNY Sportsnet New York Comcast",
+        "channel-name": "SNY Sportsnet New York Comcast",
+        "stream-name": "sny-sportsnet-new-york-comcast"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Science.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true",
+        "tvg-name": "Discovery Science",
+        "channel-name": "Discovery Science",
+        "stream-name": "Science"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Paramount+.with.Showtime.-.Eastern.Feed.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",
+        "tvg-name": "Showtime - Eastern Feed",
+        "channel-name": "Showtime - Eastern Feed",
+        "stream-name": "ShowtimeEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Showtime.2.-.Eastern.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",
+        "tvg-name": "Showtime 2 - Eastern",
+        "channel-name": "Showtime 2 - Eastern",
+        "stream-name": "Showtime2East"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Space.City.Home.Network.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png",
+        "tvg-name": "Space City Home Network",
+        "channel-name": "Space City Home Network",
+        "stream-name": "space-city-home-network"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Spectrum.Sportsnet.Lakers.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png",
+        "tvg-name": "Spectrum Sportsnet LA",
+        "channel-name": "Spectrum Sportsnet LA",
+        "stream-name": "spectrum-sportsnet-la"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Spectrum.SportsNet.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png",
+        "tvg-name": "Spectrum Sportsnet",
+        "channel-name": "Spectrum Sportsnet",
+        "stream-name": "spectrum-sportsnet"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.(East).-.Satellite/Digital.ca",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png",
+        "tvg-name": "Sportsnet (East)",
+        "channel-name": "Sportsnet (East)",
+        "stream-name": "sportsnet-east"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.360.ca",
+        "tvg-logo": "https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png",
+        "tvg-name": "Sportsnet 360",
+        "channel-name": "Sportsnet 360",
+        "stream-name": "sportsnet-360"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.One.ca",
+        "tvg-logo": "https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png",
+        "tvg-name": "Sportsnet One",
+        "channel-name": "Sportsnet One",
+        "stream-name": "sportsnet-one"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.(Ontario).ca",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png",
+        "tvg-name": "Sportsnet Ontario",
+        "channel-name": "Sportsnet Ontario",
+        "stream-name": "sportsnet-ontario"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.(Pacific).-.Satellite/Digital.ca",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png",
+        "tvg-name": "Sportsnet Pacific",
+        "channel-name": "Sportsnet Pacific",
+        "stream-name": "sportsnet-pacific"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "SportsNet.Pittsburgh.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png",
+        "tvg-name": "SportsNet Pittsburgh",
+        "channel-name": "SportsNet Pittsburgh",
+        "stream-name": "sportsnet-pittsburgh"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "Sportsnet.(West).-.Satellite/Digital.ca",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png",
+        "tvg-name": "Sportsnet West",
+        "channel-name": "Sportsnet West",
+        "stream-name": "sportsnet-west"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Starz.-.Eastern.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",
+        "tvg-name": "Starz",
+        "channel-name": "Starz - Eastern",
+        "stream-name": "StarzEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "SundanceTV.USA.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png",
+        "tvg-name": "SundanceTV USA - East",
+        "channel-name": "SundanceTV USA - East",
+        "stream-name": "SundanceTVEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "Syfy.-.Eastern.Feed.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",
+        "tvg-name": "SYFY - Eastern Feed",
+        "channel-name": "SYFY - Eastern Feed",
+        "stream-name": "SyfyEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "TBS.-.East.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",
+        "tvg-name": "TBS - East",
+        "channel-name": "TBS - East",
+        "stream-name": "TBSEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "TLC.USA.-.Eastern.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",
+        "tvg-name": "TLC USA - Eastern",
+        "channel-name": "TLC USA - Eastern",
+        "stream-name": "TLCEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "The.Movie.Channel.HDTV.(East).us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png",
+        "tvg-name": "TMC Channel (US) - Eastern Feed",
+        "channel-name": "TMC Channel (US) - Eastern Feed",
+        "stream-name": "TheMovieChannelEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "TNT.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",
+        "tvg-name": "TNT - Eastern Feed",
+        "channel-name": "TNT - Eastern Feed",
+        "stream-name": "TNTEast"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "TSN1.ca",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true",
+        "tvg-name": "TSN 1",
+        "channel-name": "TSN 1",
+        "stream-name": "tsn1"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "TSN2.ca",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true",
+        "tvg-name": "TSN 2",
+        "channel-name": "TSN 2",
+        "stream-name": "tsn2"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "TSN3.ca",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true",
+        "tvg-name": "TSN 3",
+        "channel-name": "TSN 3",
+        "stream-name": "tsn3"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "TSN4.ca",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true",
+        "tvg-name": "TSN 4",
+        "channel-name": "TSN 4",
+        "stream-name": "tsn4"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "TSN5.ca",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true",
+        "tvg-name": "TSN 5",
+        "channel-name": "TSN 5",
+        "stream-name": "tsn5"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "TV.Land.-.Eastern.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png",
+        "tvg-name": "TV Land Eastern",
+        "channel-name": "TV Land Eastern",
+        "stream-name": "tv-land-eastern"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "TV.One.us",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png",
+        "tvg-name": "TV ONE",
+        "channel-name": "TV ONE",
+        "stream-name": "TVOne"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "TeenNick.-.Eastern.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png",
+        "tvg-name": "TeenNick - Eastern",
+        "channel-name": "TeenNick - Eastern",
+        "stream-name": "TeenNickEast"
+    },
+    {
+        "group-title": "Spanish",
+        "tvg-id": "Telemundo..-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png",
+        "tvg-name": "Telemundo - Eastern Feed",
+        "channel-name": "Telemundo - Eastern Feed",
+        "stream-name": "TelemundoEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "The.Cooking.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",
+        "tvg-name": "The Cooking Channel",
+        "channel-name": "The Cooking Channel",
+        "stream-name": "CookingChannel"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "The.Tennis.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",
+        "tvg-name": "The Tennis Channel",
+        "channel-name": "The Tennis Channel",
+        "stream-name": "TennisChannel"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "The.Weather.Channel.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",
+        "tvg-name": "The Weather Channel",
+        "channel-name": "The Weather Channel",
+        "stream-name": "TheWeatherChannel"
+    },
+    {
+        "group-title": "Documentary",
+        "tvg-id": "Travel.US.-.East.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",
+        "tvg-name": "Travel Channel US - East",
+        "channel-name": "Travel Channel US - East",
+        "stream-name": "TravelChannelEast"
+    },
+    {
+        "group-title": "Movies",
+        "tvg-id": "Turner.Classic.Movies.USA.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png",
+        "tvg-name": "Turner Classic Movies USA",
+        "channel-name": "Turner Classic Movies USA",
+        "stream-name": "TCMEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "USA.Network.-.East.Feed.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",
+        "tvg-name": "USA Network - East Feed",
+        "channel-name": "USA Network - East Feed",
+        "stream-name": "USANetworkEast"
+    },
+    {
+        "group-title": "Kids",
+        "tvg-id": "Universal.Kids.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png",
+        "tvg-name": "Universal Kids",
+        "channel-name": "Universal Kids",
+        "stream-name": "UniversalKidsEast"
+    },
+    {
+        "group-title": "Spanish",
+        "tvg-id": "Univision.-.Eastern.Feed.us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png",
+        "tvg-name": "Univision - Eastern Feed",
+        "channel-name": "Univision - Eastern Feed",
+        "stream-name": "UnivisionEast"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "VH1.-.Eastern.Feed.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",
+        "tvg-name": "VH1 - Eastern Feed",
+        "channel-name": "VH1 - Eastern Feed",
+        "stream-name": "VH1East"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "VICE.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png",
+        "tvg-name": "VICE",
+        "channel-name": "VICE",
+        "stream-name": "VICETV"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "WEtv.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true",
+        "tvg-name": "WETV (Women's Entertainment) - Eastern",
+        "channel-name": "WETV (Women's Entertainment) - Eastern",
+        "stream-name": "WeTVEast"
+    },
+    {
+        "group-title": "News",
+        "tvg-id": "WPIX.New.York.(SUPERSTATION).us",
+        "tvg-logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cw/cw-11-wpix-us.png",
+        "tvg-name": "WPIX New York (SUPERSTATION)",
+        "channel-name": "WPIX New York (SUPERSTATION)",
+        "stream-name": "WPIX"
+    },
+    {
+        "group-title": "Sports",
+        "tvg-id": "YES.Network.us",
+        "tvg-logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true",
+        "tvg-name": "YES Network",
+        "channel-name": "YES Network",
+        "stream-name": "yes-network"
+    },
+    {
+        "group-title": "Entertainment",
+        "tvg-id": "truTV.USA.-.Eastern.us",
+        "tvg-logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",
+        "tvg-name": "truTV USA - Eastern",
+        "channel-name": "truTV USA - Eastern",
+        "stream-name": "truTVEast"
+    }
+]
