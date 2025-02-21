@@ -1,857 +1,827 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="USA",ABC News
+#EXTINF:-1 group-title="USA",ABC News USA
 https://wikinew.iosplayer.ru/wiki/ustvabcnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ACC Network
-https://hztnew.iosplayer.ru/hzt/accn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",AMC
-https://hztnew.iosplayer.ru/hzt/ustvamc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",ABC
+#EXTINF:-1 group-title="USA",ABC TV USA
 https://wikinew.iosplayer.ru/wiki/ustvabc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Animal Planet
-https://hztnew.iosplayer.ru/hzt/ustvanimal/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",ACC Network USA
+https://top2new.iosplayer.ru/top2/accn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Antena 1
+#EXTINF:-1 group-title="USA",AMC USA
+https://hztnew.iosplayer.ru/hzt/ustvamc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",Animal Planet USA
+https://top2new.iosplayer.ru/top2/ustvanimal/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ROMANIA",Antena 1 ROMANIA
 https://top2new.iosplayer.ru/top2/eantena1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Premium 1
+#EXTINF:-1 group-title="SERBIA",Arena Premium 1 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arena1premiumserbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Premium 2
+#EXTINF:-1 group-title="SERBIA",Arena Premium 2 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arena2premiumserbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Premium 3
+#EXTINF:-1 group-title="SERBIA",Arena Premium 3 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arena3premiumserbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 1
+#EXTINF:-1 group-title="SERBIA",Arena Sport 1 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport1serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 2
+#EXTINF:-1 group-title="SERBIA",Arena Sport 2 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport2serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 3
+#EXTINF:-1 group-title="SERBIA",Arena Sport 3 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport3serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 4
+#EXTINF:-1 group-title="SERBIA",Arena Sport 4 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport4serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 5
+#EXTINF:-1 group-title="SERBIA",Arena Sport 5 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport5serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Arena Sport 8
+#EXTINF:-1 group-title="SERBIA",Arena Sport 6 SERBIA
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport6serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="SERBIA",Arena Sport 8 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/arenasport8serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="MALAYSIA",Astro Cricket
-https://hztnew.iosplayer.ru/hzt/astrocricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="MALAYSIA",Astro Cricket MALAYSIA
+https://wikinew.iosplayer.ru/wiki/astrocricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",BBC America
+#EXTINF:-1 group-title="USA",BBC America USA
 https://wikinew.iosplayer.ru/wiki/ustvbbcamerica/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",BBC Four
+#EXTINF:-1 group-title="UK",BBC Four UK
 https://wikinew.iosplayer.ru/wiki/xbbc4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",BBC News 24
+#EXTINF:-1 group-title="UK",BBC News 24 UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/bbcnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",BBC One
+#EXTINF:-1 group-title="UK",BBC One UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/xbbc1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",BBC Scotland
-https://wikinew.iosplayer.ru/wiki/bbcscotland/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",BBC Scotland
-https://wikinew.iosplayer.ru/wiki/bbcscotland/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",BBC Three
+#EXTINF:-1 group-title="UK",BBC Three UK
 https://wikinew.iosplayer.ru/wiki/xbbc3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",BBC Two
-https://wikinew.iosplayer.ru/wiki/xbbc2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",BET
+#EXTINF:-1 group-title="USA",BET USA
 https://wikinew.iosplayer.ru/wiki/ustvbet/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",BTN
+#EXTINF:-1 group-title="USA",BTN USA
 https://wikinew.iosplayer.ru/wiki/ustvbtn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Bally Sports Detroit
-https://hztnew.iosplayer.ru/hzt/ballysportsdetroit/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Bally Sports Detroit USA
+https://top2new.iosplayer.ru/top2/ballysportsdetroit/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Bally Sports East
-https://hztnew.iosplayer.ru/hzt/ballysportssoutheast/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Bally Sports East USA
+https://top2new.iosplayer.ru/top2/ballysportssoutheast/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="FRANCE",BeIN Sport 1
-https://wikinew.iosplayer.ru/wiki/beinsport1fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="FRANCE",BeIN Sport 2
-https://wikinew.iosplayer.ru/wiki/beinsport2fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="FRANCE",BeIN Sport 3
-https://wikinew.iosplayer.ru/wiki/beinsport3fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="FRANCE",BeIN Sport 4 Max
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/Beinsport4maxfr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ARAB",Bein Sports 1
+#EXTINF:-1 group-title="ARAB",Bein Sports 1 ARAB
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/beinsports1arb/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ARAB",Bein Sports 2
+#EXTINF:-1 group-title="FRANCE",Bein Sports 1 FRANCE
+https://wikinew.iosplayer.ru/wiki/beinsport1fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ARAB",Bein Sports 2 ARAB
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/beinsports2arb/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="FRANCE",Bein Sports 3
+#EXTINF:-1 group-title="FRANCE",Bein Sports 2 FRANCE
+https://wikinew.iosplayer.ru/wiki/beinsport2fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="FRANCE",Bein Sports 3 FRANCE
+https://wikinew.iosplayer.ru/wiki/beinsport3fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="FRANCE",Bein Sports 3 FRANCE
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/Beinsport3fr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Bein Sports Mena 1
+#EXTINF:-1 group-title="FRANCE",Bein Sports 4 MAX FRANCE
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/Beinsport4maxfr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="UK",Bein Sports Mena 1 UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/beinsports1EN/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Blaze
+#EXTINF:-1 group-title="UK",Blaze UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/Blazetv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Boomerang
+#EXTINF:-1 group-title="USA",Boomerang USA
 https://wikinew.iosplayer.ru/wiki/ustvboom/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Bravo
+#EXTINF:-1 group-title="USA",Bravo TV USA
 https://wikinew.iosplayer.ru/wiki/ustvbravo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",CBS
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvcbs/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",CBS NY
-https://wikinew.iosplayer.ru/wiki/cbsny/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",CBSSN
-https://wikinew.iosplayer.ru/wiki/ustvcbssn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",CBS Sports Network
+#EXTINF:-1 group-title="USA",CBS Sports Network USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/cbssn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",CNBC
-https://hztnew.iosplayer.ru/hzt/ustvcnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",CBS USA
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvcbs/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",CNN
+#EXTINF:-1 group-title="USA",CBSNY USA
+https://wikinew.iosplayer.ru/wiki/cbsny/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",CBSSN USA
+https://wikinew.iosplayer.ru/wiki/ustvcbssn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",CNBC USA
+https://top2new.iosplayer.ru/top2/ustvcnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",CNN USA
 https://wikinew.iosplayer.ru/wiki/ustvcnn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",CNN News
+#EXTINF:-1 group-title="USA",CNNnews USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/cnnnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",CW
+#EXTINF:-1 group-title="USA",CW USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvcw/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="FRANCE",Canal+ Sport
+#EXTINF:-1 group-title="FRANCE",Canal Sport FRANCE
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/Canalplusfrance/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Cinemax
+#EXTINF:-1 group-title="USA",Cinemax USA
 https://wikinew.iosplayer.ru/wiki/ustvcinemax/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Comedy Central
+#EXTINF:-1 group-title="USA",Comedy Central USA
 https://wikinew.iosplayer.ru/wiki/ustvcomedycentral/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 1
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 1 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 2
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 2 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 3
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 3 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 4
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 4 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 5
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 5 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 6
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 6 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 7
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 7 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 8
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 8 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote8/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Cosmote Sport 9
+#EXTINF:-1 group-title="GREECE",Cosmote Sport 9 GREECE
 https://top2new.iosplayer.ru/top2/ftkcosmote9/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SPAIN",DAZN 1
+#EXTINF:-1 group-title="GERMANY",DAZN 1 Deutschland GERMANY
+https://top2new.iosplayer.ru/top2/dazn1de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="SPAIN",DAZN 1 SPAIN
 https://azonew.iosplayer.ru/azo/dazn1es/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",DAZN 1 Deutschland
-https://azonew.iosplayer.ru/azo/dazn1de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",DAZN 1 UK
+#EXTINF:-1 group-title="UK",DAZN 1 UK UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/dazn1uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SPAIN",DAZN 2
+#EXTINF:-1 group-title="GERMANY",DAZN 2 Deutschland GERMANY
+https://top2new.iosplayer.ru/top2/dazn2de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="SPAIN",DAZN 2 SPAIN
 https://azonew.iosplayer.ru/azo/dazn2es/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",DAZN 2 Deutschland
-https://azonew.iosplayer.ru/azo/dazn2de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",Destination America
+#EXTINF:-1 group-title="USA",Destination America USA
 https://wikinew.iosplayer.ru/wiki/ustvdestinationamerica/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="BULGARIA",Diema Sport 2
+#EXTINF:-1 group-title="BULGARIA",Diema Sport 2 BULGARIA
 https://wikinew.iosplayer.ru/wiki/diemasport2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Digi Sport 1
+#EXTINF:-1 group-title="ROMANIA",Digi Sport 1 ROMANIA
 https://top2new.iosplayer.ru/top2/premium400/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Digi Sport 2
+#EXTINF:-1 group-title="ROMANIA",Digi Sport 2 ROMANIA
 https://top2new.iosplayer.ru/top2/premium401/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Digi Sport 3
+#EXTINF:-1 group-title="ROMANIA",Digi Sport 3 ROMANIA
 https://top2new.iosplayer.ru/top2/premium402/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Digi Sport 4
+#EXTINF:-1 group-title="ROMANIA",Digi Sport 4 ROMANIA
 https://top2new.iosplayer.ru/top2/premium403/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ECUADOR",DirecTV
+#EXTINF:-1 group-title="ECUADOR",Direc TV ECUADOR
 https://wikinew.iosplayer.ru/wiki/directv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Discovery Channel
+#EXTINF:-1 group-title="USA",Discovery Channel USA
 https://wikinew.iosplayer.ru/wiki/ustvdiscoverychannel/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Disney Channel
-https://hztnew.iosplayer.ru/hzt/ustvdisney/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Disney Channel USA
+https://top2new.iosplayer.ru/top2/ustvdisney/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Disney JR
-https://hztnew.iosplayer.ru/hzt/ustvdisneyjr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Disney JR USA
+https://wikinew.iosplayer.ru/wiki/ustvdisneyjr/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ESPN
-https://hztnew.iosplayer.ru/hzt/eplayerespn_usa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ARGENTINA",ESPN
-https://top2new.iosplayer.ru/top2/arg_espn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ARGENTINA",ESPN
-https://top2new.iosplayer.ru/top2/arg_espn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="NETHERLANDS",ESPN 1
+#EXTINF:-1 group-title="NETHERLANDS",ESPN 1 NETHERLANDS
 https://top2new.iosplayer.ru/top2/espn1nl/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ESPN 2
-https://hztnew.iosplayer.ru/hzt/eplayerespn2_usa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ARGENTINA",ESPN 2
+#EXTINF:-1 group-title="ARGENTINA",ESPN 2 ARGENTINA
 https://top2new.iosplayer.ru/top2/arg_espn2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NETHERLANDS",ESPN 2
+#EXTINF:-1 group-title="NETHERLANDS",ESPN 2 NETHERLANDS
 https://top2new.iosplayer.ru/top2/espn2nl/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ARGENTINA",ESPN 3
+#EXTINF:-1 group-title="USA",ESPN 2 USA
+https://top2new.iosplayer.ru/top2/eplayerespn2_usa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ARGENTINA",ESPN 3 ARGENTINA
 https://top2new.iosplayer.ru/top2/arg_espn3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NETHERLANDS",ESPN 3
+#EXTINF:-1 group-title="NETHERLANDS",ESPN 3 NETHERLANDS
 https://top2new.iosplayer.ru/top2/espn3nl/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ESPN Deportes
-https://hztnew.iosplayer.ru/hzt/eplayerespn_dep/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="ARGENTINA",ESPN ARGENTINA
+https://top2new.iosplayer.ru/top2/arg_espn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="MEXICO",ESPN Deportes
+#EXTINF:-1 group-title="ARGENTINA",ESPN ARGENTINA
+https://top2new.iosplayer.ru/top2/arg_espn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="MEXICO",ESPN Deportes MEXICO
 https://top2new.iosplayer.ru/top2/espndeportes/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ESPN News
+#EXTINF:-1 group-title="USA",ESPN Deportes USA
+https://top2new.iosplayer.ru/top2/eplayerespn_dep/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",ESPN News USA
 https://wikinew.iosplayer.ru/wiki/ustvespnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ARGENTINA",ESPN Premium
+#EXTINF:-1 group-title="USA",ESPN USA
+https://top2new.iosplayer.ru/top2/eplayerespn_usa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ARGENTINA",ESPNPremium ARGENTINA
 https://top2new.iosplayer.ru/top2/arg_espn_premium/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",ESPNU
-https://hztnew.iosplayer.ru/hzt/eplayerespn_u/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",ESPNU USA
+https://top2new.iosplayer.ru/top2/eplayerespn_u/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 1
+#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 1 PORTUGAL
 https://top2new.iosplayer.ru/top2/eplayereleven1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 2
+#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 2 PORTUGAL
 https://top2new.iosplayer.ru/top2/eplayereleven2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 3
+#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 3 PORTUGAL
 https://top2new.iosplayer.ru/top2/eplayereleven3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 4
+#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 4 PORTUGAL
 https://top2new.iosplayer.ru/top2/eplayereleven4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 5
+#EXTINF:-1 group-title="PORTUGAL",Eleven Sports 5 PORTUGAL
 https://top2new.iosplayer.ru/top2/eplayereleven5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SPAIN",#Vamos
+#EXTINF:-1 group-title="SPAIN",Ellas Vamos SPAIN
 https://wikinew.iosplayer.ru/wiki/movistarvamos/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Eurosport
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/37/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="GERMANY",Eurosport 1 GERMANY
+https://top2new.iosplayer.ru/top2/eplayerEuroSport1de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Eurosport 1
-https://azonew.iosplayer.ru/azo/eplayereurosp1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="UK",Eurosport 1 UK
+https://top2new.iosplayer.ru/top2/eplayereurosp1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Eurosport 1
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerEuroSport1de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",Eurosport 2
-https://azonew.iosplayer.ru/azo/eplayereurosp2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="GERMANY",Eurosport 2
+#EXTINF:-1 group-title="GERMANY",Eurosport 2 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerEuroSport2de/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SPAIN",Eurosport 2
-https://top2new.iosplayer.ru/top2/eplayermovistarEurosport2_ES/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ROMANIA",Eurosport 2
+#EXTINF:-1 group-title="ROMANIA",Eurosport 2 ROMANIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/38/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ARGENTINA",Fox Sports 1
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/argfoxsports1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="SPAIN",Eurosport 2 SPAIN
+https://top2new.iosplayer.ru/top2/eplayermovistarEurosport2_ES/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="MEXICO",Fox Sports 1
+#EXTINF:-1 group-title="UK",Eurosport 2 UK
+https://top2new.iosplayer.ru/top2/eplayereurosp2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ROMANIA",Eurosport ROMANIA
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/37/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="MEXICO",FOX Sports 1 MEXICO
 https://wikinew.iosplayer.ru/wiki/mexfs1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Fox Sports 1
-https://hztnew.iosplayer.ru/hzt/eplayerfs1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",FOX Sports 1 USA
+https://top2new.iosplayer.ru/top2/eplayerfs1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="MEXICO",Fox Sports 2
-https://wikinew.iosplayer.ru/wiki/mexfs2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="ARGENTINA",Fox Sports 2
+#EXTINF:-1 group-title="ARGENTINA",FOX Sports 2 ARGENTINA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/argfoxsports2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Fox Sports 2
-https://hztnew.iosplayer.ru/hzt/eplayerfs2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="MEXICO",FOX Sports 2 MEXICO
+https://wikinew.iosplayer.ru/wiki/mexfs2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="MEXICO",Fox Sports 3
+#EXTINF:-1 group-title="USA",FOX Sports 2 USA
+https://top2new.iosplayer.ru/top2/eplayerfs2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="MEXICO",FOX Sports 3 MEXICO
 https://wikinew.iosplayer.ru/wiki/mexfs3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",FXX
+#EXTINF:-1 group-title="USA",FXX USA
 https://top2new.iosplayer.ru/top2/fxx/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",FloRacing
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/Floracing/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",Food Network
+#EXTINF:-1 group-title="USA",Food Network USA
 https://wikinew.iosplayer.ru/wiki/ustvfoodnetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Fox
-https://hztnew.iosplayer.ru/hzt/ustvfox/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="AUSTRALIA",Fox 501
+#EXTINF:-1 group-title="AUSTRALIA",Fox 501 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox501/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox 502
+#EXTINF:-1 group-title="AUSTRALIA",Fox 502 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox502/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox 503
+#EXTINF:-1 group-title="AUSTRALIA",Fox 503 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox503/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox 504
+#EXTINF:-1 group-title="AUSTRALIA",Fox 504 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox504/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox 505
+#EXTINF:-1 group-title="AUSTRALIA",Fox 505 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox505/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox 507
+#EXTINF:-1 group-title="AUSTRALIA",Fox 507 AUSTRALIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/fox507/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Fox Soccer Plus
+#EXTINF:-1 group-title="USA",Fox Soccer Plus USA
 https://wikinew.iosplayer.ru/wiki/foxsoccerplus/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Fox Sports 1 Backup
+#EXTINF:-1 group-title="USA",Fox Sports 1 Backup USA
 https://wikinew.iosplayer.ru/wiki/foxsports1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Fox Sports 506
+#EXTINF:-1 group-title="AUSTRALIA",Fox Sports 506 AUSTRALIA
 https://top2new.iosplayer.ru/top2/eplayer506/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Freeform
+#EXTINF:-1 group-title="USA",Fox USA
+https://top2new.iosplayer.ru/top2/ustvfox/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",Freeform USA
 https://wikinew.iosplayer.ru/wiki/ustvfreeform/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PERU",GOL
+#EXTINF:-1 group-title="PERU",GOL PERU
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/golperu/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Golf Channel
+#EXTINF:-1 group-title="USA",GOLF Channel USA
 https://hztnew.iosplayer.ru/hzt/ustvgolfchanel/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ECUADOR",GolTV
+#EXTINF:-1 group-title="USA",Game Show Network USA
+https://top2new.iosplayer.ru/top2/gameshow/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="ECUADOR",Gol TV ECUADOR
 https://wikinew.iosplayer.ru/wiki/goltv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",HBO
+#EXTINF:-1 group-title="USA",HBO USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",HGTV
-https://hztnew.iosplayer.ru/hzt/ustvhgtv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",HGTV USA
+https://top2new.iosplayer.ru/top2/ustvhgtv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Hallmark Movies & Mysteries
+#EXTINF:-1 group-title="USA",Hallmark Movies Mysteries TV USA
 https://wikinew.iosplayer.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",History
+#EXTINF:-1 group-title="USA",History USA
 https://wikinew.iosplayer.ru/wiki/ustvhistory/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",ITV 1
+#EXTINF:-1 group-title="UK",ITV 1 UK
 https://wikinew.iosplayer.ru/wiki/itv1uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",ITV 2
+#EXTINF:-1 group-title="UK",ITV 2 UK
 https://wikinew.iosplayer.ru/wiki/itv2uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",ITV 3
+#EXTINF:-1 group-title="UK",ITV 3 UK
 https://wikinew.iosplayer.ru/wiki/itv3uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",ITV 4
+#EXTINF:-1 group-title="UK",ITV 4 UK
 https://wikinew.iosplayer.ru/wiki/itv4uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="RUSSIA",KHL Prime
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/khlprime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="UK",La Liga TV UK
+https://top2new.iosplayer.ru/top2/laligatvuk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",La Liga TV
-https://wikinew.iosplayer.ru/wiki/laligatvuk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Lifetime Movies Network USA
+https://top2new.iosplayer.ru/top2/ustvlifetimemovienetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Lifetime
+#EXTINF:-1 group-title="USA",Lifetime USA
 https://wikinew.iosplayer.ru/wiki/ustvlifetime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Lifetime Movie Network
-https://hztnew.iosplayer.ru/hzt/ustvlifetimemovienetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",MASN
+#EXTINF:-1 group-title="USA",MASN USA
 https://top2new.iosplayer.ru/top2/masn/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",MAVTV
+#EXTINF:-1 group-title="USA",MAVTV USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/mavtv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",MLB Network
+#EXTINF:-1 group-title="USA",MLB Network USA
 https://wikinew.iosplayer.ru/wiki/ustvmlbnetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",MSNBC
+#EXTINF:-1 group-title="USA",MSNBC USA
 https://wikinew.iosplayer.ru/wiki/ustvmsnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SPAIN",Movistar Deportes
+#EXTINF:-1 group-title="SPAIN",Movistar Deportes SPAIN
 https://wikinew.iosplayer.ru/wiki/movistardeportes/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",NBA TV
+#EXTINF:-1 group-title="USA",NBATV USA
 https://hztnew.iosplayer.ru/hzt/nbatv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",NBC
-https://wikinew.iosplayer.ru/wiki/ustvnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",NBC Sports Boston
-https://wikinew.iosplayer.ru/wiki/nbcsboston/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",NBC Sports California
-https://wikinew.iosplayer.ru/wiki/nbcscali/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",NBC Sports Philadelphia
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/nbcphiladelphia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",NBC Sports Bay Area
+#EXTINF:-1 group-title="USA",NBC Sports Bay Area USA
 https://wikinew.iosplayer.ru/wiki/nbcsa/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",NFL Network
-https://hztnew.iosplayer.ru/hzt/eplayerNFLNetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",NBC USA
+https://hztnew.iosplayer.ru/hzt/ustvnbc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",NFL Redzone
+#EXTINF:-1 group-title="USA",NBCSBoston USA
+https://wikinew.iosplayer.ru/wiki/nbcsboston/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",NBCSCalifornia USA
+https://wikinew.iosplayer.ru/wiki/nbcscali/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",NBCSPhiladelphia USA
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/nbcphiladelphia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",NFL Network USA
+https://top2new.iosplayer.ru/top2/eplayerNFLNetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="USA",NFL Redzone USA
 https://wikinew.iosplayer.ru/wiki/ustvnflredzone/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",NHL Network
-https://hztnew.iosplayer.ru/hzt/nhlnet/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",NHL Network USA
+https://top2new.iosplayer.ru/top2/nhlnet/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",National Geographic
+#EXTINF:-1 group-title="USA",National Geographic USA
 https://wikinew.iosplayer.ru/wiki/ustvnationalgeographic/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Nova Sports 1
+#EXTINF:-1 group-title="USA",Nicktoons USA
+https://hztnew.iosplayer.ru/hzt/ustvnicktoons/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="GREECE",Nova Sports 1 GREECE
 https://top2new.iosplayer.ru/top2/ftknovasport1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Nova Sports 2
+#EXTINF:-1 group-title="GREECE",Nova Sports 2 GREECE
 https://top2new.iosplayer.ru/top2/ftknovasport2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Nova Sports 3
+#EXTINF:-1 group-title="GREECE",Nova Sports 3 GREECE
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/ftknovasport3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GREECE",Nova Sports 4
+#EXTINF:-1 group-title="GREECE",Nova Sports 4 GREECE
 https://top2new.iosplayer.ru/top2/ftknovasport4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 1
-https://azonew.iosplayer.ru/azo/optussport1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 1 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 2
-https://azonew.iosplayer.ru/azo/optussport2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 2 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 3
-https://azonew.iosplayer.ru/azo/optussport3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 3 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 4
-https://azonew.iosplayer.ru/azo/optussport4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 4 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 5
-https://azonew.iosplayer.ru/azo/optussport5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 5 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 6
-https://azonew.iosplayer.ru/azo/optussport6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="AUSTRALIA",Optus Sport 6 AUSTRALIA
+https://hztnew.iosplayer.ru/hzt/optussport6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Orange Sport 1
+#EXTINF:-1 group-title="ROMANIA",Orange Sport 1 ROMANIA
 https://wikinew.iosplayer.ru/wiki/premium439/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Orange Sport 2
+#EXTINF:-1 group-title="ROMANIA",Orange Sport 2 ROMANIA
 https://wikinew.iosplayer.ru/wiki/premium440/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PAKISTAN",PTV
-https://hztnew.iosplayer.ru/hzt/patv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",PDC TV
+#EXTINF:-1 group-title="USA",PDCTV USA
 https://wikinew.iosplayer.ru/wiki/pdctv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Premier Sports 1
+#EXTINF:-1 group-title="UK",Premier Sports 1 UK
 https://azonew.iosplayer.ru/azo/newpremier1uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Premier Sports 2
+#EXTINF:-1 group-title="UK",Premier Sports 2 UK
 https://azonew.iosplayer.ru/azo/newpremier2uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Prima Sport 1
+#EXTINF:-1 group-title="ROMANIA",Prima Sport 1 ROMANIA
 https://top2new.iosplayer.ru/top2/premium583/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Prima Sport 2
+#EXTINF:-1 group-title="ROMANIA",Prima Sport 2 ROMANIA
 https://wikinew.iosplayer.ru/wiki/premium584/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Prima Sport 3
+#EXTINF:-1 group-title="ROMANIA",Prima Sport 3 ROMANIA
 https://top2new.iosplayer.ru/top2/premium586/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Prima Sport 4
+#EXTINF:-1 group-title="ROMANIA",Prima Sport 4 ROMANIA
 https://top2new.iosplayer.ru/top2/premium585/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Prima TV
+#EXTINF:-1 group-title="ROMANIA",Prima TV ROMANIA
 https://wikinew.iosplayer.ru/wiki/premium843/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Pro Arena
+#EXTINF:-1 group-title="ROMANIA",Pro Arena ROMANIA
 https://top2new.iosplayer.ru/top2/prox/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ROMANIA",Pro TV
+#EXTINF:-1 group-title="ROMANIA",Pro TV ROMANIA
 https://top2new.iosplayer.ru/top2/protv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="FRANCE",RMC Sport 1
+#EXTINF:-1 group-title="FRANCE",RMC Sport 1 FRANCE
 https://wikinew.iosplayer.ru/wiki/rmc1france/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="IRELAND",RTE One
-https://wikinew.iosplayer.ru/wiki/rteoneir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="IRELAND",RTE One IRELAND
+https://top2new.iosplayer.ru/top2/rteoneir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="IRELAND",RTE Two
+#EXTINF:-1 group-title="IRELAND",RTE Two IRELAND
 https://wikinew.iosplayer.ru/wiki/rtetwoir/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ALBANIA",RTSH 1
+#EXTINF:-1 group-title="ALBANIA",RTSH 1 ALBANIA
 https://top2new.iosplayer.ru/top2/AL_RTSH_1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ALBANIA",RTSH 2
+#EXTINF:-1 group-title="ALBANIA",RTSH 2 ALBANIA
 https://top2new.iosplayer.ru/top2/AL_RTSH_2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ALBANIA",RTSH Sport
-https://top2new.iosplayer.ru/top2/AL_RTSH_Sport_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",Racing TV
+#EXTINF:-1 group-title="UK",Racing TV UK
 https://wikinew.iosplayer.ru/wiki/racingtv/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Rally TV
-https://hztnew.iosplayer.ru/hzt/eplayerrallytv_uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="USA",SEC Network
+#EXTINF:-1 group-title="USA",SEC Network USA
 https://wikinew.iosplayer.ru/wiki/eplayerSECNetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Showtime
+#EXTINF:-1 group-title="USA",Showtime USA
 https://wikinew.iosplayer.ru/wiki/ustvshowtime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 1
+#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 1 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Bundesliga_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 2
+#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 2 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Bundesliga_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 3
+#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 3 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Bundesliga_3_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 4
+#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 4 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Bundesliga_4_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 7
+#EXTINF:-1 group-title="GERMANY",Sky Bundesliga 7 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Bundesliga_7_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Discovery HD
+#EXTINF:-1 group-title="UK",Sky Discovery HD UK
 https://wikinew.iosplayer.ru/wiki/skydiscoveryhd/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 1
-https://azonew.iosplayer.ru/azo/skynz1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="GERMANY",Sky Sport 1
+#EXTINF:-1 group-title="GERMANY",Sky Sport 1 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 2
-https://azonew.iosplayer.ru/azo/skynz2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 1 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 2
+#EXTINF:-1 group-title="GERMANY",Sky Sport 2 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 3
-https://azonew.iosplayer.ru/azo/skynz3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 2 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 3
+#EXTINF:-1 group-title="GERMANY",Sky Sport 3 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_3_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 4
-https://azonew.iosplayer.ru/azo/skynz4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 3 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 4
+#EXTINF:-1 group-title="GERMANY",Sky Sport 4 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_4_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 5
-https://azonew.iosplayer.ru/azo/skynz5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 4 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 5
+#EXTINF:-1 group-title="GERMANY",Sky Sport 5 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_5_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 6
-https://azonew.iosplayer.ru/azo/skynz6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 5 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 6
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_6_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 6 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 7
-https://azonew.iosplayer.ru/azo/skynz7/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="GERMANY",Sky Sport 7
+#EXTINF:-1 group-title="GERMANY",Sky Sport 7 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_7_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport 8
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 7 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz7/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="GERMANY",Sky Sport 8 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_8_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 8
-https://azonew.iosplayer.ru/azo/skynz8/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 8 NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz8/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport 9
-https://azonew.iosplayer.ru/azo/skynz9/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="GERMANY",Sky Sport 9
+#EXTINF:-1 group-title="GERMANY",Sky Sport 9 GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_9_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="NEWZEALAND",Sky Sport Select
-https://azonew.iosplayer.ru/azo/skynz_select/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="NEWZEALAND",Sky Sport Select NEWZEALAND
+https://top2new.iosplayer.ru/top2/skynz_select/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport Tennis
+#EXTINF:-1 group-title="GERMANY",Sky Sport Tennis GERMANY
 https://wikinew.iosplayer.ru/wiki/eplayerSky_Sport_Tennis_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="GERMANY",Sky Sport Top Event
+#EXTINF:-1 group-title="GERMANY",Sky Sport Top Event GERMANY
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSky_Sport_Top_Event_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Action
+#EXTINF:-1 group-title="UK",Sky Sports Action UK
 https://top2new.iosplayer.ru/top2/skyaction/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Arena
+#EXTINF:-1 group-title="UK",Sky Sports Arena UK
 https://top2new.iosplayer.ru/top2/skyarena/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Cricket
+#EXTINF:-1 group-title="UK",Sky Sports Cricket UK
 https://top2new.iosplayer.ru/top2/eplayerskycric/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Cricket
+#EXTINF:-1 group-title="UK",Sky Sports Cricket UK
 https://top2new.iosplayer.ru/top2/eplayerskycric/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports F1
+#EXTINF:-1 group-title="UK",Sky Sports F 1 UK
 https://top2new.iosplayer.ru/top2/eplayerskyf1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Football
+#EXTINF:-1 group-title="UK",Sky Sports Football UK
 https://top2new.iosplayer.ru/top2/eplayerskyfoot/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Golf
+#EXTINF:-1 group-title="UK",Sky Sports Golf UK
 https://top2new.iosplayer.ru/top2/skygolf/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Main Event
+#EXTINF:-1 group-title="UK",Sky Sports Main Event UK
 https://top2new.iosplayer.ru/top2/eplayerskymain2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Mix
+#EXTINF:-1 group-title="UK",Sky Sports Mix UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/skymix/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports News
+#EXTINF:-1 group-title="UK",Sky Sports News UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/skysportsnews/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Premier League
+#EXTINF:-1 group-title="UK",Sky Sports Premier League UK
 https://top2new.iosplayer.ru/top2/eplayerSKYPL/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Racing
+#EXTINF:-1 group-title="UK",Sky Sports Racing UK
 https://wikinew.iosplayer.ru/wiki/skysportsracing/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Sky Sports Tennis
+#EXTINF:-1 group-title="UK",Sky Sports Tennis UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/skytennis/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 1
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 1 PORTUGAL
 https://wikinew.iosplayer.ru/wiki/eplayerSPORTTV1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 2
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 2 PORTUGAL
 https://wikinew.iosplayer.ru/wiki/eplayerSPORTTV2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 3
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 3 PORTUGAL
 https://wikinew.iosplayer.ru/wiki/eplayerSPORTTV3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 4
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 4 PORTUGAL
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSPORTTV5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 5
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 5 PORTUGAL
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSPORTTV5/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="PORTUGAL",Sport TV 6
+#EXTINF:-1 group-title="PORTUGAL",Sport TV 6 PORTUGAL
 https://wikinew.iosplayer.ru/wiki/eplayerSPORTTV6/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Sport Klub
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklubserbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="SERBIA",Sport Klub 1
+#EXTINF:-1 group-title="SERBIA",Sportklub 1 SERBIA
 https://wikinew.iosplayer.ru/wiki/PNpYBn6hAz/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Sport Klub 2
+#EXTINF:-1 group-title="SERBIA",Sportklub 2 SERBIA
 https://wikinew.iosplayer.ru/wiki/2jC9npVrWe/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Sport Klub 3
+#EXTINF:-1 group-title="SERBIA",Sportklub 3 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklub3serbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SERBIA",Sport Klub 4
+#EXTINF:-1 group-title="SERBIA",Sportklub 4 SERBIA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/zIfTNB7aqX/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet East
+#EXTINF:-1 group-title="SERBIA",Sportklub SERBIA
+https://nix1-dc4new.iosplayer.ru/nix1-dc4/sportklubserbia/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="CANADA",Sportsnet East CANADA
 https://wikinew.iosplayer.ru/wiki/sportsneteast/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet One
+#EXTINF:-1 group-title="CANADA",Sportsnet One CANADA
 https://esx1new.iosplayer.ru/esx1/primasportsnetone/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet Ontario
+#EXTINF:-1 group-title="CANADA",Sportsnet Ontario CANADA
 https://esx1new.iosplayer.ru/esx1/primasportsnetontario/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet Ontario
+#EXTINF:-1 group-title="CANADA",Sportsnet Ontario CANADA
 https://esx1new.iosplayer.ru/esx1/primasportsnetontario/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet Pacific
+#EXTINF:-1 group-title="CANADA",Sportsnet Pacific CANADA
 https://wikinew.iosplayer.ru/wiki/primasportsnetpacific/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet West
+#EXTINF:-1 group-title="CANADA",Sportsnet West CANADA
 https://esx1new.iosplayer.ru/esx1/primasportsnetwest/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",Sportsnet World
-https://esx1new.iosplayer.ru/esx1/primasportsnetworld/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Action
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Action SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportAction/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Cricket
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Cricket SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportCricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Football
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Football SOUTHAFRICA
 https://top2new.iosplayer.ru/top2/eplayerSuperSportFootball/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Golf
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Golf SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportGolf/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Grandstand
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Grandstand SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSupersportGrandstand/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport LaLiga
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport La Liga SOUTHAFRICA
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportLaLiga/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Motorsport
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Motorsport SOUTHAFRICA
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportMotorsport/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport PSL
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport PSL SOUTHAFRICA
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportPSL/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Premier League
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Premier League SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportPL/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Rugby
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Rugby SOUTHAFRICA
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportRugby/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Tennis
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Tennis SOUTHAFRICA
 https://wikinew.iosplayer.ru/wiki/eplayerSuperSportTennis/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Variety 1
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Variety 1 SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Variety 2
-https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="SOUTHAFRICA",SuperSport Variety 3
+#EXTINF:-1 group-title="SOUTHAFRICA",Super Sport Variety 3 SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerSuperSportVariety3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="SOUTHAFRICA",Supersports Blitz
+#EXTINF:-1 group-title="SOUTHAFRICA",Supersports Blitz SOUTHAFRICA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/superblitz/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Syfy
+#EXTINF:-1 group-title="USA",Syfy USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvsyfy/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",TBS
+#EXTINF:-1 group-title="USA",TBS USA
 https://wikinew.iosplayer.ru/wiki/tbs/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",TLC
+#EXTINF:-1 group-title="USA",TLC USA
 https://wikinew.iosplayer.ru/wiki/ustvtlc/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",TNT
-https://hztnew.iosplayer.ru/hzt/ustvtnt/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
-
-#EXTINF:-1 group-title="UK",TNT Sports 1
+#EXTINF:-1 group-title="UK",TNT Sports 1 UK
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",TNT Sports 2
+#EXTINF:-1 group-title="UK",TNT Sports 2 UK
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",TNT Sports 3
+#EXTINF:-1 group-title="UK",TNT Sports 3 UK
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt3/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",TNT Sports 4
+#EXTINF:-1 group-title="UK",TNT Sports 4 UK
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt4/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",TSN 1
+#EXTINF:-1 group-title="USA",TNT USA
+https://top2new.iosplayer.ru/top2/ustvtnt/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+
+#EXTINF:-1 group-title="CANADA",TSN 1 CANADA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerTSN_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",TSN 2
+#EXTINF:-1 group-title="CANADA",TSN 2 CANADA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerTSN_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",TSN 3
+#EXTINF:-1 group-title="CANADA",TSN 3 CANADA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerTSN_3_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",TSN 4
+#EXTINF:-1 group-title="CANADA",TSN 4 CANADA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerTSN_4_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="CANADA",TSN 5
+#EXTINF:-1 group-title="CANADA",TSN 5 CANADA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/eplayerTSN_5_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="DENMARK",TV3
+#EXTINF:-1 group-title="DENMARK",TV 3 DENMARK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/tv3dk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="ARGENTINA",TYC Sports
-https://hztnew.iosplayer.ru/hzt/tyc_sports/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="ARGENTINA",TYC Sports ARGENTINA
+https://top2new.iosplayer.ru/top2/tyc_sports/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Tennis Channel
+#EXTINF:-1 group-title="USA",Tennis Channel USA
 https://top2new.iosplayer.ru/top2/premium714/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",UFC Fight Pass
+#EXTINF:-1 group-title="UK",UFCFight Pass UK
 https://wikinew.iosplayer.ru/wiki/fightpass/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",USA Network
-https://hztnew.iosplayer.ru/hzt/usanetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",USA Network USA
+https://top2new.iosplayer.ru/top2/usanetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="BELGIUM",VTM 2
+#EXTINF:-1 group-title="BELGIUM",VTM 2 BELGIUM
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/vtm2/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Viaplay Sports 1
+#EXTINF:-1 group-title="UK",Viaplay Sports 1 UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/premier1uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="UK",Viaplay Sports 2
+#EXTINF:-1 group-title="UK",Viaplay Sports 2 UK
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/premier2uk/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="COLOMBIA",Win Sports
+#EXTINF:-1 group-title="COLOMBIA",WIN Sports COLOMBIA
 https://top2new.iosplayer.ru/top2/win_sports/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Willow TV
-https://hztnew.iosplayer.ru/hzt/willowtvcricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Willov TV USA
+https://top2new.iosplayer.ru/top2/willowtvcricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Willow TV
-https://hztnew.iosplayer.ru/hzt/willowtvcricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
+#EXTINF:-1 group-title="USA",Willow TV USA
+https://top2new.iosplayer.ru/top2/willowtvcricket/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",Willow Xtra
+#EXTINF:-1 group-title="USA",Willow Xtra USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/willowxtra/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",WNYW
+#EXTINF:-1 group-title="USA",Wnyw USA
 https://nix1-dc4new.iosplayer.ru/nix1-dc4/ustvwnyw/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA",YES Network
+#EXTINF:-1 group-title="USA",YES USA
 https://wikinew.iosplayer.ru/wiki/yesnet/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36|Origin=https://topembed.pw
 
