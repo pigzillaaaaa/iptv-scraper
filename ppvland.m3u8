@@ -12,6 +12,18 @@ https://lb.fscdn.fun/tnt/index.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=174010590
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/bucks/index.m3u8?md5=nBR7euZbhAd6thbMXd8wJA&expires=1740109500
 
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-atl/1280x720.png" group-title="BASKETBALL",Magic at Hawks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/hawks/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mem-ind/1280x720.png" group-title="BASKETBALL",Grizzlies at Pacers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pacers/index.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
+
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cha-den/1280x720.png" group-title="BASKETBALL",Hornets at Nuggets
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
@@ -24,35 +36,23 @@ https://lb.fscdn.fun/nuggets/index.m3u8?md5=wcY7IKY5Gug8T8zTUPDxHg&expires=17401
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/nets/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cKIRMBL.jpeg" group-title="COMBAT SPORTS",The Last Crescendo: Beterbiev vs Bivol 2
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.shoeshopping.top/v3/director/VE1OTk3ODg0YTRmZmFiLWRjMTgtNjZiNC05MjBkLWNjYmEyZTBm/master.m3u8?md5=U_Ms9nGmJOIQla9J0cWlcQ&expires=1740268800
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/mem-ind/1280x720.png" group-title="BASKETBALL",Grizzlies at Pacers
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pacers/index.m3u8?md5=VCd9cYow7fUkSUE9gA5nLw&expires=1740105900
-
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37930/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - Italian
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37930-2025-bet-mgm-premier-league-night-three---italian/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-atl/1280x720.png" group-title="BASKETBALL",Magic at Hawks
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/hawks/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=1740107700
-
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lal-por/1280x720.png" group-title="BASKETBALL",Lakers at Trail Blazers
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/blazers/index.m3u8?md5=XbZzTYS5SthZ7IQvwyiB8w&expires=1740116700
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37932/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Four - English
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37932-2025-bet-mgm-premier-league-night-four---english/index.m3u8?md5=w8rnk9X4q18B0FAuvIJ_bQ&expires=1740700500
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cKIRMBL.jpeg" group-title="COMBAT SPORTS",The Last Crescendo: Beterbiev vs Bivol 2
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.shoeshopping.top/v3/director/VE1OTk3ODg0YTRmZmFiLWRjMTgtNjZiNC05MjBkLWNjYmEyZTBm/master.m3u8?md5=U_Ms9nGmJOIQla9J0cWlcQ&expires=1740268800
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/chi-nyk/1280x720.png" group-title="BASKETBALL",Bulls at Knicks
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -66,29 +66,113 @@ https://lb.fscdn.fun/knicks/index.m3u8?md5=EB1GbuyHHoyJNNUnFlmpxw&expires=174010
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/tnt/index.m3u8?md5=5ye3_MEaRBVB6S0yrbraTA&expires=1740114900
 
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37931/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - Spanish
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37931-2025-bet-mgm-premier-league-night-three---spanish/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
-
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37929/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Three - English
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37929-2025-bet-mgm-premier-league-night-three---english/index.m3u8?md5=i0OH3fN04QQBEio03OZxow&expires=1740095700
-
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37932/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Four - English
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/pdctv-37932-2025-bet-mgm-premier-league-night-four---english/index.m3u8?md5=w8rnk9X4q18B0FAuvIJ_bQ&expires=1740700500
-
 #EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37933/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Four - Italian
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/pdctv-37933-2025-bet-mgm-premier-league-night-four---italian/index.m3u8?md5=w8rnk9X4q18B0FAuvIJ_bQ&expires=1740700500
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 1)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-1/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37934/assets/1920_thumbnail.png" group-title="DARTS",2025 Bet MGM Premier League Night Four - Spanish
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37934-2025-bet-mgm-premier-league-night-four---spanish/index.m3u8?md5=w8rnk9X4q18B0FAuvIJ_bQ&expires=1740700500
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 3)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-3/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 2)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-2/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 5)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-5/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 4)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-4/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 6)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-6/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 7)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-7/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37935/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day One (Board 8)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37935-2025-ladbrokes-uk-open-day-one-stream-8/index.m3u8?md5=y5NS6_ybNdcPW1E4aoNuVA&expires=1740786300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 1)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-1/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 2)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-2/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 4)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-4/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 3)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-3/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 6)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-6/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 5)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-5/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 7)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-7/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
+
+#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/darts/3000668/fixture/37936/assets/1920_thumbnail.png" group-title="DARTS",2025 Ladbrokes UK Open Day Two (Board 8)
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/pdctv-37936-2025-ladbrokes-uk-open-day-two-stream-8/index.m3u8?md5=psg_Ogj6X6THm5k1gu8wnA&expires=1740873300
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/up6hrwd.png" group-title="ICE HOCKEY",Canada vs USA
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -113,12 +197,6 @@ https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=A06z3mIMsl86Ln_0EhSudA&ex
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://fs.strmeastmafia.top/f1-testing/index.m3u8?md5=OrGpQIuWz5aoLm0zyewo0g&expires=1740758400
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZu61Y8.png" group-title="STREAMS",Chicago Cubs vs. Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/losangelesdodgers/index.m3u8?md5=Q946jGS4FWz-4HbR7Kd8sQ&expires=1740092700
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -168,17 +246,17 @@ https://lb.fscdn.fun/wrestling/index.m3u8?md5=HuRppfqmL3kqgb26Y63K2A&expires=174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/wrestling/index.m3u8?md5=SWpfc3PBxBgKLciestRR7w&expires=1740801600
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://lb.fscdn.fun/wrestling/index.m3u8?md5=eK0e1oh7fjK5lT8vrFCdAg&expires=1740888000
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQQieeY.png" group-title="WRESTLING",WWE RAW
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/wrestling/index.m3u8?md5=-k4W2zRmbLvu5uzw7r-8Nw&expires=1741064400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://lb.fscdn.fun/wrestling/index.m3u8?md5=eK0e1oh7fjK5lT8vrFCdAg&expires=1740888000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7tkxQQ.png" group-title="WRESTLING",WWE NXT
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -246,17 +324,17 @@ https://lb.fscdn.fun/wrestling/index.m3u8?md5=menOi84bhrEY11ANbzA3Aw&expires=174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://lb.fscdn.fun/wrestling/index.m3u8?md5=GkbeszO3Kxxz2u-hilcnnA&expires=1742097600
 
-#EXTINF:-1 tvg-logo="https://p3-fs.flowstreams.top/sheeps1/preview.jpg" group-title="24/7 STREAMS",24/7 COWS
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://p3.flowstreams.top/sheeps1/tracks-v1/mono.m3u8?md5=BC_315UONip5N57SgSUs3A&expires=1740772800
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 STREAMS",ESPN
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://dc.vipstreams.in/espn/index.m3u8?md5=ucMRWDzzwlEe3TgY4qZ2zg&expires=1705611600
+
+#EXTINF:-1 tvg-logo="https://p3-fs.flowstreams.top/sheeps1/preview.jpg" group-title="24/7 STREAMS",24/7 COWS
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://p3.flowstreams.top/sheeps1/tracks-v1/mono.m3u8?md5=BC_315UONip5N57SgSUs3A&expires=1740772800
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 STREAMS",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://ppv.land
