@@ -2664,7 +2664,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium735/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddh2new.iosplayer.ru/ddh2/premium373/mono.m3u8
 
-#EXTINF:-1 tvg-id="Science.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/e4-channel.png",Science Channel
+#EXTINF:-1 tvg-id="Science.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/science-channel.png",Science Channel
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
